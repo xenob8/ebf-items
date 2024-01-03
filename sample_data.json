@@ -1,0 +1,1834 @@
+[
+    {
+        "item_aeon_disk2": "Penumbral Circle",
+        "bonus_all": "30",
+        "bonus_health": "1325",
+        "bonus_mana": "815",
+        "cooldown_duration": "90.0",
+        "Description": "<h1>Passive: Combo Breaker</h1> When you take damage and your health falls below 45%, a strong dispel is applied and you gain a 5.0 second buff that provides +75% Status Resistance and causes all damage you deal to be reduced by -66% and damage you are dealt to be reduced to zero.<br/><br/>Dispel Type: <span class='GameplayValues GameplayVariable'>Strong Dispel</span>",
+        "lore": "A powerful artifact long ago smuggled out of the Ivory Incubarium. Or so many believe."
+    },
+    {
+        "item_aeon_disk3": "Asmodean Discus",
+        "bonus_all": "120",
+        "bonus_health": "4025",
+        "bonus_mana": "1185",
+        "cooldown_duration": "75.0",
+        "Description": "<h1>Passive: Combo Breaker</h1> When you take damage and your health falls below 45%, a strong dispel is applied and you gain a 5.0 second buff that provides +75% Status Resistance and causes all damage you deal to be reduced by -33% and damage you are dealt to be reduced to zero.<br/><br/>Dispel Type: <span class='GameplayValues GameplayVariable'>Strong Dispel</span>",
+        "lore": "A powerful artifact long ago smuggled out of the Ivory Incubarium. Or so many believe."
+    },
+    {
+        "item_aeon_disk4": "Archangel's Halo",
+        "bonus_all": "400",
+        "bonus_health": "12500",
+        "bonus_mana": "2500",
+        "cooldown_duration": "60.0",
+        "Description": "<h1>Passive: Combo Breaker</h1> When you take damage and your health falls below 45%, a strong dispel is applied and you gain a 5.0 second buff that provides Debuff Immunity and causes all damage you are dealt to be reduced to zero.<br/><br/>Dispel Type: <span class='GameplayValues GameplayVariable'>Strong Dispel</span>",
+        "lore": "A powerful artifact long ago smuggled out of the Ivory Incubarium. Or so many believe."
+    },
+    {
+        "item_aeon_disk5": "Eldritch Relic",
+        "bonus_all": "1500",
+        "bonus_health": "41950",
+        "bonus_mana": "6500",
+        "cooldown_duration": "45.0",
+        "Description": "<h1>Passive: Combo Breaker</h1> When you take damage and your health falls below 45%, a strong dispel is applied and you gain a 5.0 second buff that provides Debuff Immunity and causes all damage you are dealt to be reduced to zero.<br/><br/>Dispel Type: <span class='GameplayValues GameplayVariable'>Strong Dispel</span>",
+        "lore": "A powerful artifact long ago smuggled out of the Ivory Incubarium. Or so many believe."
+    },
+    {
+        "item_angels_demise_2": "Dark Khanda",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals 1200 + 100% of your attack damage as bonus damage to the target, and slows them by 50% for 1.5s.\n\n<h1>Passive: Critical Strike</h1>Grants each attack a 30% chance to deal 175% damage.",
+        "Note0": "Critical Strike does not work against buildings.",
+        "bonus_damage": "250",
+        "bonus_health": "1000",
+        "bonus_mana": "250",
+        "bonus_all_stats": "40"
+    },
+    {
+        "item_angels_demise_3": "Evil Khanda",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals 4000 + 125% of your attack damage as bonus damage to the target, and slows them by 50% for 1.5s.\n\n<h1>Passive: Critical Strike</h1>Grants each attack a 30% chance to deal 190% damage.",
+        "Note0": "Critical Strike does not work against buildings.",
+        "bonus_damage": "850",
+        "bonus_health": "2500",
+        "bonus_mana": "350",
+        "bonus_all_stats": "135"
+    },
+    {
+        "item_angels_demise_4": "Blessed Khanda",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals 6000 + 150% of your attack damage as bonus damage to the target, and slows them by 50% for 1.5s.\n\n<h1>Passive: Critical Strike</h1>Grants each attack a 30% chance to deal 205% damage.",
+        "Note0": "Critical Strike does not work against buildings.",
+        "bonus_damage": "2650",
+        "bonus_health": "10000",
+        "bonus_mana": "550",
+        "bonus_all_stats": "450"
+    },
+    {
+        "item_angels_demise_5": "Forgotten Khanda",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals 10000 + 175% of your attack damage as bonus damage to the target, and slows them by 50% for 1.5s.\n\n<h1>Passive: Critical Strike</h1>Grants each attack a 30% chance to deal 220% damage.",
+        "Note0": "Critical Strike does not work against buildings.",
+        "bonus_damage": "8650",
+        "bonus_health": "25000",
+        "bonus_mana": "700",
+        "bonus_all_stats": "1500"
+    },
+    {
+        "item_berserker_face": "Berserker's Helm",
+        "bonus_all": "40 120 570 1750",
+        "bonus_armor": "13 14 15 16",
+        "bonus_attack_speed": "35 45 55 65",
+        "bonus_damage": "350 1420 4830 16250",
+        "bonus_health_regen": "25 75 225 670",
+        "Description": "<h1>Toggle : Berserker Sacrifice</h1>You sacrifice %health_percent_lost%%% of your current health on every attack to gain 1.5 3 4.5 6% of your current health as damage.",
+        "Lore": "Drives the user into madness, sacrificing their own health to hurt others...",
+        "Note0": " "
+    },
+    {
+        "item_berserker_face_2": "Bloodletter's Helm",
+        "bonus_all": "40 120 570 1750",
+        "bonus_armor": "13 14 15 16",
+        "bonus_attack_speed": "35 45 55 65",
+        "bonus_damage": "350 1420 4830 16250",
+        "bonus_health_regen": "25 75 225 670",
+        "Description": "<h1>Toggle : Berserker Sacrifice</h1>You sacrifice %health_percent_lost%%% of your current health on every attack to gain 1.5 3 4.5 6% of your current health as damage.",
+        "Lore": "Drives the user into madness, sacrificing their own health to hurt others...",
+        "Note0": " "
+    },
+    {
+        "item_berserker_face_3": "Zealot's Helm",
+        "bonus_all": "40 120 570 1750",
+        "bonus_armor": "13 14 15 16",
+        "bonus_attack_speed": "35 45 55 65",
+        "bonus_damage": "350 1420 4830 16250",
+        "bonus_health_regen": "25 75 225 670",
+        "Description": "<h1>Toggle : Berserker Sacrifice</h1>You sacrifice %health_percent_lost%%% of your current health on every attack to gain 1.5 3 4.5 6% of your current health as damage.",
+        "Lore": "Drives the user into madness, sacrificing their own health to hurt others...",
+        "Note0": " "
+    },
+    {
+        "item_berserker_face_4": "Dreadknight's Helm",
+        "bonus_all": "40 120 570 1750",
+        "bonus_armor": "13 14 15 16",
+        "bonus_attack_speed": "35 45 55 65",
+        "bonus_damage": "350 1420 4830 16250",
+        "bonus_health_regen": "25 75 225 670",
+        "Description": "<h1>Toggle : Berserker Sacrifice</h1>You sacrifice %health_percent_lost%%% of your current health on every attack to gain 1.5 3 4.5 6% of your current health as damage.",
+        "Lore": "Drives the user into madness, sacrificing their own health to hurt others...",
+        "Note0": " "
+    },
+    {
+        "item_bfury2": "War Fury",
+        "bonus_attack_speed": "+$attack",
+        "bonus_damage": "480",
+        "bonus_health_regen": "22.5",
+        "bonus_mana_regen": "6.9",
+        "Description": "<h1>Passive: Splash</h1> Deals 40% (20% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "Lore": "Used in war to destroy waves of enemies."
+    },
+    {
+        "item_blade_mail2": "Chains of Rage",
+        "bonus_all": "30",
+        "bonus_armor": "14",
+        "bonus_damage": "130",
+        "Description": "<h1>Active: Demand Retribution</h1>For 4.5 seconds, all units within 900 units of you are taunted to you and the damage returned from all sources is increased by 90%.\n<h1>Passive: Damage Return</h1>Everytime you are attacked, you return 100 damage plus 12% of the attack damage dealt to you.",
+        "health_regen": "25",
+        "Note0": "Damage Return is calculated before any kind of reduction.",
+        "Note1": "Damage Return doesn't reflect damage from other forms of Blade Mail.",
+        "Note2": "Returned damage type is the same as it was received."
+    },
+    {
+        "item_blade_mail3": "Coercer's Mail",
+        "bonus_all": "120",
+        "bonus_armor": "15",
+        "bonus_damage": "300",
+        "Description": "<h1>Active: Demand Retribution</h1>For 4.5 seconds, all units within 1000 units of you are taunted to you and the damage returned from all sources is increased by 100%.\n<h1>Passive: Damage Return</h1>Everytime you are attacked, you return 400 damage plus 14% of the attack damage dealt to you.",
+        "health_regen": "75",
+        "Note0": "Damage Return is calculated before any kind of reduction.",
+        "Note1": "Damage Return doesn't reflect damage from other forms of Blade Mail.",
+        "Note2": "Returned damage type is the same as it was received."
+    },
+    {
+        "item_blade_mail4": "Aggressor's Bindings",
+        "bonus_all": "550",
+        "bonus_armor": "16",
+        "bonus_damage": "2800",
+        "Description": "<h1>Active: Demand Retribution</h1>For 4.5 seconds, all units within 1100 units of you are taunted to you and the damage returned from all sources is increased by 110%.\n<h1>Passive: Damage Return</h1>Everytime you are attacked, you return 1200 damage plus 16% of the attack damage dealt to you.\n<h1>Aura: Burn</h1> Scorches enemies for [object Object] magical damage per second and causes them to miss 21% of their attacks. Damage is increased to [object Object] while Demand Retribution is active.<br><br>Illusions deal 1250 damage.<br><br>Radius: 900",
+        "evasion": "21",
+        "health_regen": "350",
+        "Note0": "Damage Return is calculated before any kind of reduction.",
+        "Note1": "Damage Return doesn't reflect damage from other forms of Blade Mail.",
+        "Note2": "Returned damage type is the same as it was received.",
+        "DOTA_Tooltip_modifier_item_blade_mail4_burn": "Burn Damage",
+        "DOTA_Tooltip_modifier_item_blade_mail4_burn_Description": "Taking damage every second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+    },
+    {
+        "item_blade_mail5": "War God's Shield",
+        "bonus_all": "1700",
+        "bonus_armor": "17",
+        "bonus_damage": "4400",
+        "Description": "<h1>Active: Demand Retribution</h1>For 4.5 seconds, all units are taunted to you and the damage returned from all sources is increased by 120%.\n<h1>Passive: Damage Return</h1>Everytime you are attacked, you return 6000 damage plus 18% of the attack damage dealt to you.\n<h1>Aura: Burn</h1> Scorches enemies for [object Object] magical damage per second and causes them to miss 23% of their attacks. Damage is increased to 18000 while Demand Retribution is active.<br><br>Illusions deal [object Object] damage.<br><br>Radius: 900",
+        "evasion": "23",
+        "health_regen": "1000",
+        "Note0": "Damage Return is calculated before any kind of reduction.",
+        "Note1": "Damage Return doesn't reflect damage from other forms of Blade Mail.",
+        "Note2": "Returned damage type is the same as it was received.",
+        "DOTA_Tooltip_modifier_item_blade_mail5_burn": "Burn Damage",
+        "DOTA_Tooltip_modifier_item_blade_mail5_burn_Description": "Taking damage every second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+    },
+    {
+        "item_blink_treads": "Blink Treads",
+        "bonus_attack_speed": "25",
+        "bonus_movement_speed_melee": "55",
+        "bonus_movement_speed_ranged": "45",
+        "bonus_other": "20",
+        "bonus_stat": "35",
+        "Description": "<h1>Active: Flowing Blink</h1> Teleport to a target point up to 1200 units away.<br><br>When you target yourself with this ability, it does not go on cooldown and instead switches the primary stance.<br><br>Flowing Blink cannot be used for 3.0 seconds after taking damage from an enemy hero.\n\n<h1>Passive: Overwhelming Stance</h1>Selected attribute becomes Strength and all enemies in a 800 AoE have 50% movement speed slow and 50 attack speed slow for 6 seconds, and take damage equal to 150 + 150% of your strength.\n\n<h1>Passive: Swift Stance</h1>Selected attribute becomes Agility and ayou gain 40% phased movement speed and +50 Agility for 6 seconds.\n\n<h1>Passive: Arcane Stance</h1>Selected attribute becomes Intelligence this item's cooldown is reduced to 7 seconds (3.0 when damaged). When cast, restores 3000 health and 175 mana."
+    },
+    {
+        "item_blink_treads2": "Darkfoot's Treads",
+        "bonus_attack_speed": "50",
+        "bonus_movement_speed_melee": "55",
+        "bonus_movement_speed_ranged": "45",
+        "bonus_other": "50",
+        "bonus_stat": "90",
+        "Description": "<h1>Active: Flowing Blink</h1> Teleport to a target point up to 1200 units away.<br><br>When you target yourself with this ability, it does not go on cooldown and instead switches the primary stance.<br><br>Flowing Blink cannot be used for 3.0 seconds after taking damage from an enemy hero.\n\n<h1>Passive: Overwhelming Stance</h1>Selected attribute becomes Strength and all enemies in a 800 AoE have 50% movement speed slow and 50 attack speed slow for 6 seconds, and take damage equal to 1500 + 250% of your strength.\n\n<h1>Passive: Swift Stance</h1>Selected attribute becomes Agility and ayou gain 40% phased movement speed and +125 Agility for 6 seconds.\n\n<h1>Passive: Arcane Stance</h1>Selected attribute becomes Intelligence this item's cooldown is reduced to 6 seconds (2.5 when damaged). When cast, restores 7500 health and 275 mana."
+    },
+    {
+        "item_blink_treads3": "Helldiver's Treads",
+        "bonus_attack_speed": "75",
+        "bonus_movement_speed_melee": "55",
+        "bonus_movement_speed_ranged": "45",
+        "bonus_other": "140",
+        "bonus_stat": "255",
+        "Description": "<h1>Active: Flowing Blink</h1> Teleport to a target point up to 1200 units away.<br><br>When you target yourself with this ability, it does not go on cooldown and instead switches the primary stance.<br><br>Flowing Blink cannot be used for 3.0 seconds after taking damage from an enemy hero.\n\n<h1>Passive: Overwhelming Stance</h1>Selected attribute becomes Strength and all enemies in a 800 AoE have 50% movement speed slow and 50 attack speed slow for %duration% seconds, and take damage equal to 4500 + 350% of your strength.\n\n<h1>Passive: Swift Stance</h1>Selected attribute becomes Agility and ayou gain 40% phased movement speed and +360 Agility for %duration% seconds.\n\n<h1>Passive: Arcane Stance</h1>Selected attribute becomes Intelligence this item's cooldown is reduced to 5 seconds (2.0 when damaged). When cast, restores 14000 health and 400 mana."
+    },
+    {
+        "item_blink_treads4": "Skywalker's Treads",
+        "bonus_attack_speed": "100",
+        "bonus_movement_speed_melee": "55",
+        "bonus_movement_speed_ranged": "45",
+        "bonus_other": "410",
+        "bonus_stat": "750",
+        "Description": "<h1>Active: Flowing Blink</h1> Teleport to a target point up to 1200 units away.<br><br>When you target yourself with this ability, it does not go on cooldown and instead switches the primary stance.<br><br>Flowing Blink cannot be used for 3.0 seconds after taking damage from an enemy hero.\n\n<h1>Passive: Overwhelming Stance</h1>Selected attribute becomes Strength and all enemies in a 800 AoE have 50% movement speed slow and 50 attack speed slow for 6 seconds, and take damage equal to 20000 + 450% of your strength.\n\n<h1>Passive: Swift Stance</h1>Selected attribute becomes Agility and ayou gain 40% phased movement speed and +1050 Agility for 6 seconds.\n\n<h1>Passive: Arcane Stance</h1>Selected attribute becomes Intelligence this item's cooldown is reduced to 4 seconds (1.5 when damaged). When cast, restores 25000 health and 550 mana."
+    },
+    {
+        "item_blink_treads5": "Outergod's Treads",
+        "bonus_attack_speed": "125",
+        "bonus_movement_speed_melee": "55",
+        "bonus_movement_speed_ranged": "45",
+        "bonus_other": "1410",
+        "bonus_stat": "2425",
+        "Description": "<h1>Active: Flowing Blink</h1> Teleport to a target point up to 1200 units away.<br><br>When you target yourself with this ability, it does not go on cooldown and instead switches the primary stance.<br><br>Flowing Blink cannot be used for 3.0 seconds after taking damage from an enemy hero.\n\n<h1>Passive: Overwhelming Stance</h1>Selected attribute becomes Strength and all enemies in a 800 AoE have 50% movement speed slow and 50 attack speed slow for 6 seconds, and take damage equal to 60000 + 550% of your strength.\n\n<h1>Passive: Swift Stance</h1>Selected attribute becomes Agility and ayou gain 40% phased movement speed and +3400 Agility for 6 seconds.\n\n<h1>Passive: Arcane Stance</h1>Selected attribute becomes Intelligence this item's cooldown is reduced to 3 seconds (1 when damaged). When cast, restores 35000 health and 725 mana."
+    },
+    {
+        "item_bloodstone2": "Shadestone",
+        "bonus_all": "30",
+        "bonus_health": "1450",
+        "bonus_mana": "1450",
+        "Description": "<h1>Active: Bloodpact</h1> Multiplies Bloodstone's Spell Lifesteal by 2.5x and converts 5% of damage dealt to mana. Lasts 6 seconds. Costs 0% of your current HP to activate",
+        "Lore": "The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",
+        "Note0": "Using Bloodpact leaves you drained for 40 seconds and can't benefit from Bloodpact again during that time.",
+        "spell_lifesteal": "7"
+    },
+    {
+        "item_bloodstone3": "Demonstone",
+        "bonus_all": "120",
+        "bonus_health": "4150",
+        "bonus_mana": "1850",
+        "Description": "<h1>Active: Bloodpact</h1> Multiplies Bloodstone's Spell Lifesteal by 3.5x and converts 5% of damage dealt to mana. Lasts 6 seconds. Costs 0% of your current HP to activate",
+        "Lore": "The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",
+        "Note0": "Using Bloodpact leaves you drained for 40 seconds and can't benefit from Bloodpact again during that time.",
+        "spell_lifesteal": "9"
+    },
+    {
+        "item_bloodstone4": "Heavenstone",
+        "bonus_all": "395",
+        "bonus_health": "12500",
+        "bonus_mana": "2050",
+        "Description": "<h1>Active: Divine Pact</h1> Multiplies Bloodstone's Spell Lifesteal by 4.5x and converts 5% of damage dealt to mana, turns you Debuff Immune and grants you 50% Magic Resistance. Lasts 6 seconds. Costs 0% of your current HP to activate",
+        "Lore": "The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",
+        "Note0": "Using Bloodpact leaves you drained for 40 seconds and can't benefit from Bloodpact again during that time.",
+        "spell_lifesteal": "11"
+    },
+    {
+        "item_bloodstone5": "Crystal of Bahamut",
+        "bonus_all": "1400",
+        "bonus_health": "45000",
+        "bonus_mana": "6000",
+        "Description": "<h1>Active: Divine Pact</h1> Multiplies Bloodstone's Spell Lifesteal by 6x and converts 5% of damage dealt to mana, turns you Debuff Immune and grants you 50% Magic Resistance. Lasts 6 seconds. Costs 0% of your current HP to activate",
+        "Lore": "The Bloodstone's bright ruby color is unmistakable on the battlefield, as the owner seems to have infinite vitality and spirit.",
+        "Note0": "Using Bloodpact leaves you drained for 40 seconds and can't benefit from Bloodpact again during that time.",
+        "spell_lifesteal": "13"
+    },
+    {
+        "item_bloodthorn_2": "Arcane Lilac",
+        "bonus_attack_speed": "90",
+        "bonus_damage": "420",
+        "bonus_health_regen": "25.5",
+        "bonus_intellect": "130",
+        "bonus_mana_regen": "7.5",
+        "Description": "<h1>Active: Soul Rend</h1> Silences a target for 5 seconds. At the end of the silence, an additional 20% of all damage taken during the silence will be dealt to the target as magical damage.<br><br>All attacks on the silenced target will deal 600 extra damage and have True Strike.<br><br>Range: %abilitycastrange%\n\n<h1>Passive: Pierce</h1>Grants each attack a 40% chance to pierce through evasion and deal 600 bonus magical damage.",
+        "Lore": "A reviled blade that bites deeper with each wriggle of its victim's final throes."
+    },
+    {
+        "item_bloodthorn_3": "Nightshade",
+        "bonus_attack_speed": "120",
+        "bonus_damage": "1200",
+        "bonus_health_regen": "100",
+        "bonus_intellect": "420",
+        "bonus_mana_regen": "12.5",
+        "Description": "<h1>Active: Soul Rend</h1> Silences a target for 5 seconds. At the end of the silence, an additional 25% of all damage taken during the silence will be dealt to the target as magical damage.<br><br>All attacks on the silenced target will deal 1500 extra damage and have True Strike.<br><br>Range: %abilitycastrange%\n\n<h1>Passive: Pierce</h1>Grants each attack a 40% chance to pierce through evasion and deal 1500 bonus magical damage.",
+        "Lore": "A reviled blade that bites deeper with each wriggle of its victim's final throes."
+    },
+    {
+        "item_bloodthorn_4": "Burning Blossom",
+        "bonus_attack_speed": "150",
+        "bonus_damage": "3600",
+        "bonus_health_regen": "250",
+        "bonus_intellect": "1290",
+        "bonus_mana_regen": "17.5",
+        "Description": "<h1>Active: Soul Rend</h1> Silences a target for 5 seconds. At the end of the silence, an additional 30% of all damage taken during the silence will be dealt to the target as magical damage.<br><br>All attacks on the silenced target will deal 5000 extra damage and have True Strike.<br><br>Range: %abilitycastrange%\n\n<h1>Passive: Pierce</h1>Grants each attack a 40% chance to pierce through evasion and deal 5000 bonus magical damage.",
+        "Lore": "A reviled blade that bites deeper with each wriggle of its victim's final throes."
+    },
+    {
+        "item_bloodthorn_5": "Shimmering Rose",
+        "bonus_attack_speed": "180",
+        "bonus_damage": "7000",
+        "bonus_health_regen": "400",
+        "bonus_intellect": "4500",
+        "bonus_mana_regen": "20.5",
+        "Description": "<h1>Active: Soul Rend</h1> Silences a target for 5 seconds. At the end of the silence, an additional 35% of all damage taken during the silence will be dealt to the target as magical damage.<br><br>All attacks on the silenced target will deal 10000 extra damage and have True Strike.<br><br>Range: %abilitycastrange%\n\n<h1>Passive: Pierce</h1>Grants each attack a 40% chance to pierce through evasion and deal 10000 bonus magical damage.",
+        "Lore": "A reviled blade that bites deeper with each wriggle of its victim's final throes."
+    },
+    {
+        "item_boots_of_bearing_2": "Empty Soles",
+        "bonus_health": "850",
+        "bonus_int": "35",
+        "bonus_movement_speed": "70",
+        "bonus_str": "50",
+        "Description": "<h1>Active: Giant's Endurance</h1>Gives +75 attack speed, +15% movement speed and increases all forms of restoration by 50% to nearby allies for 6 seconds<br><br>For the first 2.0 seconds allies are immune to slows and have unobstructed pathing.<br><br>Radius: 1200\n\n<h1>Passive: Swiftness Aura</h1>Grants 20 movement speed to allies.  <br><br>Radius: 1200",
+        "health_regen_pct": "1.6",
+        "Lore": "Resplendent footwear fashioned for the ancient herald that first dared spread the glory of Stonehall beyond the original borders of its nascent claim."
+    },
+    {
+        "item_boots_of_bearing_3": "Abyssal Striders",
+        "bonus_health": "2500",
+        "bonus_int": "110",
+        "bonus_movement_speed": "75",
+        "bonus_str": "125",
+        "Description": "<h1>Active: Giant's Endurance</h1>Gives +100 attack speed, +15% movement speed and increases all forms of restoration by 55% to nearby allies for 6 seconds<br><br>For the first 2.5 seconds allies are immune to slows and have unobstructed pathing.<br><br>Radius: 1200\n\n<h1>Passive: Swiftness Aura</h1>Grants 20 movement speed to allies.  <br><br>Radius: 1200",
+        "health_regen_pct": "1.6",
+        "Lore": "Resplendent footwear fashioned for the ancient herald that first dared spread the glory of Stonehall beyond the original borders of its nascent claim."
+    },
+    {
+        "item_boots_of_bearing_4": "Olympian Sandals",
+        "bonus_health": "6000",
+        "bonus_int": "335",
+        "bonus_movement_speed": "80",
+        "bonus_str": "350",
+        "Description": "<h1>Active: Giant's Endurance</h1>Gives +125 attack speed, +15% movement speed and increases all forms of restoration by 60% to nearby allies for 6 seconds<br><br>For the first 3.0 seconds allies are immune to slows and have unobstructed pathing.<br><br>Radius: 1200\n\n<h1>Passive: Swiftness Aura</h1>Grants 20 movement speed to allies.  <br><br>Radius: 1200",
+        "health_regen_pct": "1.6",
+        "Lore": "Resplendent footwear fashioned for the ancient herald that first dared spread the glory of Stonehall beyond the original borders of its nascent claim."
+    },
+    {
+        "item_boots_of_bearing_5": "Off-worlders",
+        "bonus_health": "20000",
+        "bonus_int": "1010",
+        "bonus_movement_speed": "85",
+        "bonus_str": "1025",
+        "Description": "<h1>Active: Giant's Endurance</h1>Gives +150 attack speed, +15% movement speed and increases all forms of restoration by 65% to nearby allies for 6 seconds<br><br>For the first 3.5 seconds allies are immune to slows and have unobstructed pathing.<br><br>Radius: 1200\n\n<h1>Passive: Swiftness Aura</h1>Grants 20 movement speed to allies.  <br><br>Radius: 1200",
+        "health_regen_pct": "1.6",
+        "Lore": "Resplendent footwear fashioned for the ancient herald that first dared spread the glory of Stonehall beyond the original borders of its nascent claim."
+    },
+    {
+        "item_butterfly2": "Windhose",
+        "bonus_agility": "175",
+        "bonus_attack_speed": "50",
+        "bonus_damage": "220",
+        "bonus_evasion": "20",
+        "bonus_movespeed": "10",
+        "Description": "<h1>Active - Untouchable</h1>You immediately gain maximum stacks of Zephyr and the evasion provided by this item is multiplied by 2x for 8.0 seconds.\n\n<h1>Passive - Zephyr</h1>When you hit the same enemy consecutively, you gain a stacking +2 attack speed and +1% movement speed bonus. The buff lasts 3.5 seconds and can stack up to 12 times.",
+        "Lore": "Lyralei's trusty dagger. She swapped it for her iconic bow in her younger years."
+    },
+    {
+        "item_butterfly3": "Blooddrinker",
+        "bonus_agility": "490",
+        "bonus_attack_speed": "60",
+        "bonus_damage": "670",
+        "bonus_evasion": "25",
+        "bonus_movespeed": "10",
+        "Description": "<h1>Active - Untouchable</h1>You immediately gain maximum stacks of Crimson Zephyr and the evasion provided by this item is multiplied by 2x for 8.0 seconds.\n\n<h1>Passive - Crimson Zephyr</h1>When you hit the same enemy consecutively, you gain a stacking +3 attack speed, +1.5% movement speed and +0.1% lifesteal bonus. The buff lasts 3.5 seconds and can stack up to 16 times.",
+        "lifesteal_percent": "6.5",
+        "Lore": "Any creature that touches the blade of this sword bleeds immediately."
+    },
+    {
+        "item_butterfly4": "Holy Avenger",
+        "bonus_agility": "1435",
+        "bonus_attack_speed": "65",
+        "bonus_damage": "2020",
+        "bonus_evasion": "30",
+        "bonus_movespeed": "10",
+        "bonus_strength": "125",
+        "Description": "<h1>Active - Sanctuary</h1>You immediately gain maximum stacks of Crimson Zephyr and you become Debuff Immune, the evasion provided by this item is multiplied by 2x and you gain magic resistance equal to the evasion provided by this item for 8.0 seconds.\n\n<h1>Passive - Crimson Zephyr</h1>When you hit the same enemy consecutively, you gain a stacking +4 attack speed, +2% movement speed and +0.15% lifesteal bonus. The buff lasts 3.5 seconds and can stack up to 20 times.",
+        "lifesteal_percent": "6.5",
+        "Lore": "A holy blade gifted by the heavens."
+    },
+    {
+        "item_butterfly5": "Bahamut's Fang",
+        "bonus_agility": "4935",
+        "bonus_attack_speed": "70",
+        "bonus_damage": "7020",
+        "bonus_evasion": "35",
+        "bonus_movespeed": "10",
+        "bonus_strength": "500",
+        "Description": "<h1>Active - Sanctuary</h1>You immediately gain maximum stacks of Dark Zephyr and you become Debuff Immune, the evasion provided by this item is multiplied by 2x and you gain magic resistance equal to the evasion provided by this item for 8.0 seconds.\n\n<h1>Passive - Dark Zephyr</h1>When you hit the same enemy consecutively, you gain a stacking +5 attack speed, +2.5% movement speed and +0.4% lifesteal bonus. The buff lasts 3.5 seconds and can stack up to 24 times.<br><br>Once you reach the maximum amount of stacks, you gain +50% bonus Agility.",
+        "lifesteal_percent": "9",
+        "Lore": "Fashioned out of the teeth of a legendary, ancient creature, it holds great power."
+    },
+    {
+        "item_asura_rapier": "Asura Rapier",
+        "bonus_agility": "7500",
+        "bonus_attack_speed": "75",
+        "bonus_damage": "20000",
+        "bonus_evasion": "40",
+        "bonus_movespeed": "10",
+        "bonus_strength": "1500",
+        "Description": "<h1>Active - Sanctuary</h1>You immediately gain maximum stacks of Dark Zephyr and you become Debuff Immune, the evasion provided by this item is multiplied by 2x and you gain magic resistance equal to the evasion provided by this item for 8.0 seconds.\n\n<h1>Passive - Dark Zephyr</h1>When you hit the same enemy consecutively, you gain a stacking +6 attack speed, +3% movement speed and +0.5% lifesteal bonus. The buff lasts 3.5 seconds and can stack up to 30 times.<br><br>Once you reach the maximum amount of stacks, you gain +65% bonus Agility.\n\n<h1>Passive - Asura's Strength</h1>The agility bonus from this item increases every round.",
+        "lifesteal_percent": "18",
+        "Lore": "Fashioned out of the teeth of a legendary, ancient creature, it holds great power."
+    },
+    {
+        "item_cloak_of_the_protector": "Cloak of the Protector",
+        "bonus_all_stats": "30",
+        "bonus_armor": "8",
+        "bonus_health": "850",
+        "bonus_health_regen": "80",
+        "Description": "<h1>Active: Guarding Barrier</h1>Gives a shield that blocks 3000 damage of all types to all nearby allies and grants them a %block_chance_active%%% chance to block %block_damage_melee_active% damage from each incoming attack. Lasts 12 seconds.<br><br>Radius: 900\n<h1>Passive: Aura of Protection</h1> Gives allied units 15 health regeneration, 10% magic resistance and a %block_chance%%% chance to block %block_damage_melee% damage from incoming attacks on melee heroes, and %block_damage_ranged% damage on ranged.<br><br>Radius: 900",
+        "Lore": "Used in war to destroy waves of enemies.",
+        "magic_resistance": "12",
+        "DOTA_Tooltip_modifier_item_cloak_of_the_protector_ebf_active": "Guarding Barrier",
+        "DOTA_Tooltip_modifier_item_cloak_of_the_protector_ebf_active_Description": "Blocking damage from all damage types.",
+        "DOTA_Tooltip_modifier_item_cloak_of_the_protector_ebf_aura": "Aura of Protection",
+        "DOTA_Tooltip_modifier_item_cloak_of_the_protector_ebf_aura_Description": "Gaining %fMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health regeneration, %fMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% magic resistance and a chance to block damage."
+    },
+    {
+        "item_cloak_of_the_protector_2": "Embrace of the Warden",
+        "bonus_all_stats": "120",
+        "bonus_armor": "9",
+        "bonus_health": "2650",
+        "bonus_health_regen": "250",
+        "Description": "<h1>Active: Guarding Barrier</h1>Gives a shield that blocks 10000 damage of all types to all nearby allies and grants them a %block_chance_active%%% chance to block %block_damage_melee_active% damage from each incoming attack. Lasts 12 seconds.<br><br>Radius: 900\n<h1>Passive: Aura of Protection</h1> Gives allied units 75 health regeneration, 12% magic resistance and a %block_chance%%% chance to block %block_damage_melee% damage from incoming attacks on melee heroes, and %block_damage_ranged% damage on ranged.<br><br>Radius: 900",
+        "Lore": "Used in war to destroy waves of enemies.",
+        "magic_resistance": "14"
+    },
+    {
+        "item_cloak_of_the_protector_3": "Cover of Paradise",
+        "bonus_all_stats": "400",
+        "bonus_armor": "10",
+        "bonus_health": "8250",
+        "bonus_health_regen": "825",
+        "Description": "<h1>Active: Guarding Barrier</h1>Gives a shield that blocks 32500 damage of all types to all nearby allies and grants them a %block_chance_active%%% chance to block %block_damage_melee_active% damage from each incoming attack. Lasts 12 seconds.<br><br>Radius: 900\n<h1>Passive: Aura of Protection</h1> Gives allied units 200 health regeneration, 14% magic resistance and a %block_chance%%% chance to block %block_damage_melee% damage from incoming attacks on melee heroes, and %block_damage_ranged% damage on ranged.<br><br>Radius: 1200",
+        "Lore": "Used in war to destroy waves of enemies.",
+        "magic_resistance": "16"
+    },
+    {
+        "item_cloak_of_the_protector_4": "Shell of the Void",
+        "bonus_all_stats": "1500",
+        "bonus_armor": "11",
+        "bonus_health": "30250",
+        "bonus_health_regen": "3250",
+        "Description": "<h1>Active: Guarding Barrier</h1>Gives a shield that blocks 125000 damage of all types to all nearby allies and grants them a %block_chance_active%%% chance to block %block_damage_melee_active% damage from each incoming attack. Lasts 12 seconds.<br><br>Radius: 900\n<h1>Passive: Aura of Protection</h1> Gives allied units 800 health regeneration, 16% magic resistance and a %block_chance%%% chance to block %block_damage_melee% damage from incoming attacks on melee heroes, and %block_damage_ranged% damage on ranged.<br><br>Radius: 900",
+        "Lore": "Used in war to destroy waves of enemies.",
+        "magic_resistance": "18"
+    },
+    {
+        "item_crit2": "Lost Faith",
+        "bonus_damage": "285",
+        "Description": "<h1>Passive: Critical Strike</h1>Grants each attack a 35% chance to deal 275% damage.",
+        "Lore": "A powerful relic, capable of making your soul feel intense pain just by gazing into its reflection."
+    },
+    {
+        "item_crit3": "Excalibur",
+        "bonus_damage": "880",
+        "Description": "<h1>Passive: Critical Strike</h1>Grants each attack a 40% chance to deal 325% damage.",
+        "Lore": "It belonged to a boy named Arthur."
+    },
+    {
+        "item_cuirass_2": "Giant's Cuirass",
+        "bonus_all": "40",
+        "bonus_armor": "4",
+        "bonus_attackspeed": "50",
+        "health_regen": "30",
+        "Description": "<h1>Passive: Assault Aura</h1> Grants 10 health regeneration, 40 attack speed and 4 armor to nearby allied units and structures, and decreases nearby enemy unit and structure armor by -6.<br><br>Radius: 1200",
+        "Lore": "This armor was crafted by the industrious fire giants"
+    },
+    {
+        "item_cuirass_3": "Titan's Armor",
+        "bonus_all": "150",
+        "bonus_armor": "10",
+        "bonus_attackspeed": "65",
+        "health_regen": "100",
+        "Description": "<h1>Active: Titan's Blast</h1> Emits a wave that causes enemies to take 18% more damage from spells for 16.0 seconds, deals 8000 magical damage to enemies and slows their movement by -40% for 4.0 seconds.<br><br>Radius: 900\n<h1>Passive: Assault Aura</h1> Grants 20 health regeneration, 50 attack speed and 5 armor to nearby allied units and structures, and decreases nearby enemy unit armor by -7, attack speed by -50% and reduces all forms of health restoration by -30%.<br><br>Radius: 1200",
+        "Lore": "This armor was fashioned out of the carapace of an elder titan."
+    },
+    {
+        "item_cuirass_4": "Divine Chestplate",
+        "bonus_all": "450",
+        "bonus_armor": "11",
+        "bonus_attackspeed": "75",
+        "health_regen": "350",
+        "Description": "<h1>Active: Divine Smite</h1> You become Debuff Immune and gain 50% Magic Resistance for 7 seconds and emits a wave that causes enemies to take 21% more damage from spells for 16.0 seconds, deals 30000 magical damage to enemies and slows their movement by -50% for 4.0 seconds.<br><br>Radius: 900\n<h1>Passive: Assault Aura</h1> Grants 200 health regeneration, 60 attack speed and 6 armor to nearby allied units and structures, and decreases nearby enemy unit armor by -8, attack speed by -75% and reduces all forms of health restoration by -40%.<br><br>Radius: 1200",
+        "Lore": "A piece of armor blessed by the gods."
+    },
+    {
+        "item_cuirass_5": "Bahamut's Aegis",
+        "bonus_all": "1500",
+        "bonus_armor": "12",
+        "bonus_attackspeed": "90",
+        "health_regen": "1500",
+        "Description": "<h1>Active: Bahamut's Smite</h1> You become Debuff Immune and gain 50% Magic Resistance for 8 seconds and emit a wave that causes enemies to take 24% more damage from spells for 16.0 seconds, dealing 80000 magical damage to enemies and slowing their movement by -50% for 4.0 seconds.<br>Allies hit by the blast become Debuff Immune and gain Magic Resistance as well.<br><br>Radius: 900\n\n<h1>Passive: Assault Aura</h1> Grants 500 health regeneration, 70 attack speed and 7 armor to nearby allied units and structures, and decreases nearby enemy unit armor by -9, attack speed by -75% and reduces all forms of health restoration by -50%.<br><br>Radius: 1200",
+        "Lore": "This chestplate has been corrupted by the God-King's presence."
+    },
+    {
+        "item_asura_plate": "Asura Plate",
+        "Description": "<h1>Active: Asura's Smite</h1> You become Debuff Immune and gain 50% Magic Resistance for 8 seconds and emits a wave that causes enemies to take 27% more damage from spells for 16.0 seconds, deals 160000 magical damage to enemies and slows their movement by -100% for 4.0 seconds.<br>Allies hit by the blast become Debuff Immune and gain Magic Resistance as well.<br><br>Radius: 900\n\n<h1>Passive: Assault Aura</h1> Grants 1500 health regeneration, 100 attack speed and 10 armor to nearby allied units and structures, and decreases nearby enemy unit armor by -30, attack speed by -100% and reduces all forms of health restoration by -65%.<br><br>Radius: 1200\n\n<h1>Passive - Asura's Strength</h1>The armor bonus from this item increases by %bonus_armor_PR% every round.",
+        "bonus_all": "4000",
+        "bonus_armor": "20",
+        "bonus_armor_PR": "+Bonus Armor/Round",
+        "bonus_attackspeed": "100",
+        "Lore": "This chestplate has been corrupted by the God-King's presence."
+    },
+    {
+        "item_uber_dagon_2": "Uber Dagon",
+        "bonus_cooldown": "10",
+        "bonus_intellect": "85",
+        "bonus_mana_regen": "4.5",
+        "bonus_other": "25",
+        "Description": "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Heals the caster for 75% of the damage dealt.<br><br>Damage: 4500<br>Range: %abilitycastrange%",
+        "Lore": "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+        "Note0": "Instantly kills summoned units.",
+        "passive_spell_lifesteal": "3.5"
+    },
+    {
+        "item_uber_dagon_3": "Uber Dagon 2",
+        "bonus_cooldown": "12",
+        "bonus_intellect": "265",
+        "bonus_mana_regen": "10.5",
+        "bonus_other": "55",
+        "Description": "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Heals the caster for 75% of the damage dealt.<br><br>Damage: 27000<br>Range: %abilitycastrange%",
+        "Lore": "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+        "Note0": "Instantly kills summoned units.",
+        "passive_spell_lifesteal": "4.5"
+    },
+    {
+        "item_uber_dagon_4": "Uber Dagon 3",
+        "bonus_cooldown": "14",
+        "bonus_intellect": "805",
+        "bonus_mana_regen": "20.5",
+        "bonus_other": "145",
+        "Description": "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Heals the caster for 75% of the damage dealt.<br><br>Damage: 80000<br>Range: %abilitycastrange%",
+        "Lore": "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+        "Note0": "Instantly kills summoned units.",
+        "passive_spell_lifesteal": "5"
+    },
+    {
+        "item_uber_dagon_5": "Uber Dagon 4",
+        "bonus_cooldown": "16",
+        "bonus_intellect": "3475",
+        "bonus_mana_regen": "55.5",
+        "bonus_other": "415",
+        "Description": "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Heals the caster for 6% of the damage dealt.<br><br>Damage: 180000<br>Range: %abilitycastrange%",
+        "Lore": "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+        "Note0": "Instantly kills summoned units.",
+        "passive_spell_lifesteal": "12"
+    },
+    {
+        "item_desolator2": "Foulfell Desolator",
+        "bonus_damage": "370",
+        "Description": "<h1>Passive: Major Corruption</h1> Your attacks reduce the target's armor by -5 for 7.0 seconds.\n<h1>Passive: Critical Strike</h1>Grants each attack a 25% chance to deal 220% damage.",
+        "Lore": "A scythe designed to punish those imprisoned."
+    },
+    {
+        "item_desolator3": "Stygian Desolator",
+        "bonus_damage": "1120",
+        "Description": "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by -7 for 7.0 seconds.\n<h1>Passive: Critical Strike</h1>Grants each attack a 30% chance to deal 240% damage.",
+        "Lore": "The original demonic favorite that served as basis for the beloved mortal design."
+    },
+    {
+        "item_desolator4": "Smiting Desolator",
+        "bonus_damage": "5100",
+        "Description": "<h1>Passive: Supreme Corruption</h1> Your attacks reduce the target's armor by -9 for 7.0 seconds.\n<h1>Passive: Critical Strike</h1>Grants each attack a 35% chance to deal 260% damage.",
+        "Lore": "The scythe of an angel of death."
+    },
+    {
+        "item_desolator5": "Bahamut's Claw",
+        "bonus_damage": "18900",
+        "Description": "<h1>Passive: Bahamut's Corruption</h1> Your attacks reduce the target's armor by -11 for 7.0 seconds.\n<h1>Passive: Critical Strike</h1>Grants each attack a 40% chance to deal 280% damage.",
+        "Lore": "A weak attempt to recreate Bahamut true power."
+    },
+    {
+        "item_devastator_2": "Shrouded Parasma",
+        "Description": "<h1>Passive: Witch Blade</h1> Causes your next attack to have true strike, apply a poison for 4 seconds, slowing by 25% and dealing 3x your intelligence as damage every second.\n\n<h1>Passive: Magic Corruption</h1> Your attacks reduce the enemy's Magic resistance by 12% for 4 seconds.",
+        "Lore": "Devastating.",
+        "bonus_attack_speed": "60",
+        "bonus_armor": "9",
+        "bonus_intellect": "140",
+        "projectile_speed": "300"
+    },
+    {
+        "item_devastator_3": "Infernal Parasma",
+        "Description": "<h1>Passive: Witch Blade</h1> Causes your next attack to have true strike, apply a poison for 4 seconds, slowing by 25% and dealing 6x your intelligence as damage every second.\n\n<h1>Passive: Magic Corruption</h1> Your attacks reduce the enemy's Magic resistance by 14% for 4 seconds.",
+        "Lore": "Devastating.",
+        "bonus_attack_speed": "80",
+        "bonus_armor": "10",
+        "bonus_intellect": "410",
+        "projectile_speed": "300"
+    },
+    {
+        "item_devastator_4": "Angelic Parasma",
+        "Description": "<h1>Passive: Witch Blade</h1> Causes your next attack to have true strike, apply a poison for 4 seconds, slowing by 25% and dealing 12x your intelligence as damage every second.\n\n<h1>Passive: Magic Corruption</h1> Your attacks reduce the enemy's Magic resistance by 16% for 4 seconds.",
+        "Lore": "Devastating.",
+        "bonus_attack_speed": "100",
+        "bonus_armor": "11",
+        "bonus_intellect": "1250",
+        "projectile_speed": "300"
+    },
+    {
+        "item_devastator_5": "Solemn Parasma",
+        "Description": "<h1>Passive: Witch Blade</h1> Causes your next attack to have true strike, apply a poison for 4 seconds, slowing by 25% and dealing 25x your intelligence as damage every second.\n\n<h1>Passive: Magic Corruption</h1> Your attacks reduce the enemy's Magic resistance by 20% for 4 seconds.",
+        "Lore": "Devastating.",
+        "bonus_attack_speed": "120",
+        "bonus_armor": "12",
+        "bonus_intellect": "4275",
+        "projectile_speed": "300"
+    },
+    {
+        "item_eternal_shroud_2": "Unholy Shroud",
+        "bonus_armor": "6",
+        "bonus_intellect": "30",
+        "bonus_spell_resist": "16",
+        "bonus_strength": "140",
+        "Description": "<h1>Active: Arctic Blast</h1> Emits a freezing wave that causes enemies to take 18% more damage from spells for 16.0 seconds, deals 4500 magical damage to enemies and slows their movement by -40% for 4.0 seconds.<br><br>Radius: 900\n\n<h1>Passive: Freezing Shroud</h1>Taking spell damage restores mana equal to 2.5% of the damage taken before reductions.<br><br>Additionally, reduces the attack speed of all enemies by -50 and all heals, regeneration and lifesteal by 25%.<br><br>Radius: 1200.\n\n<h1>Passive: Unholy Endurance</h1> For every 10% current health as damage that equipped hero receives, it gains a stack of Endurance for 8s up to a maximum of 7 charges. Each charge increases Eternal Shroud's magic resistance by 2% and its armor by 1.",
+        "Lore": "A pristine hood that feeds upon strife to empower its owner."
+    },
+    {
+        "item_eternal_shroud_3": "Shroud of Baal",
+        "bonus_agility": "30",
+        "bonus_armor": "7",
+        "bonus_intellect": "66",
+        "bonus_spell_resist": "18",
+        "bonus_strength": "497",
+        "Description": "<h1>Active: Demonic Blast</h1> Emits a freezing wave that deals causes enemies to take 21% more damage from spells for 16.0 seconds, 9000 magical damage to enemies and slows their movement by -40% for 4.0 seconds and restores mana equal to 1.0% of the damage dealt for each enemy hit.<br><br>Radius: 900\n\n<h1>Passive: Freezing Shroud</h1>Taking spell damage restores mana equal to 2.5% of the damage taken before reductions.<br><br>Additionally, reduces the attack speed of all enemies by -60 and all heals, regeneration and lifesteal by 25%.<br><br>Radius: 1200.\n\n<h1>Passive: Unholy Endurance</h1> For every 10% current health as damage that equipped hero receives, it gains a stack of Endurance for 8s up to a maximum of 8 charges. Each charge increases Eternal Shroud's magic resistance by 2% and its armor by 1.",
+        "Lore": "A pristine hood that feeds upon strife to empower its owner."
+    },
+    {
+        "item_eternal_shroud_4": "Shroud of Gabriel",
+        "bonus_agility": "120",
+        "bonus_armor": "8",
+        "bonus_intellect": "174",
+        "bonus_spell_resist": "20",
+        "bonus_strength": "1568",
+        "Description": "<h1>Active: Radiant Blast</h1> Emits a freezing wave that causes enemies to take 24% more damage from spells for 16.0 seconds, deals 18000 magical damage to enemies and slows their movement by -40% for 4.0 seconds and restores mana equal to 1.0% of the damage dealt for each enemy hit.<br><br>Radius: 900\n\n<h1>Passive: Freezing Shroud</h1>Taking spell damage restores mana equal to 2.5% of the damage taken before reductions.<br><br>Additionally, reduces the attack speed of all enemies by -70 and all heals, regeneration and lifesteal by 25%.<br><br>Freezing Shroud is 50% more effective against units affected by Radiant Blast<br><br>Radius: 1200.\n\n<h1>Passive: Unholy Endurance</h1> For every 10% current health as damage that equipped hero receives, it gains a stack of Endurance for 8s up to a maximum of 9 charges. Each charge increases Eternal Shroud's magic resistance by 2% and its armor by 1.",
+        "Lore": "A pristine hood that feeds upon strife to empower its owner."
+    },
+    {
+        "item_eternal_shroud_5": "Shroud of Eternity",
+        "bonus_agility": "1620",
+        "bonus_armor": "9",
+        "bonus_damage": "3600",
+        "bonus_evasion": "21",
+        "bonus_health_regen": "875",
+        "bonus_intellect": "1974",
+        "bonus_mana": "1000",
+        "bonus_spell_resist": "22",
+        "bonus_strength": "3668",
+        "Description": "<h1>Active: Eternal Blast</h1> Emits a freezing wave that causes enemies to take 27% more damage from spells for 16.0 seconds, deals 32000 magical damage to enemies and slows their movement by -50% for 4.0 seconds and restores mana equal to 1.0% of the damage dealt for each enemy hit.<br><br>Radius: 900\n\n<h1>Passive: Sub-Zero Shroud</h1>Taking spell damage restores mana equal to 2.5% of the damage taken before reductions.<br><br>Additionally, reduces the attack speed of all enemies by -100, movement speed by -15%, causes all enemies to miss 20% of their attacks and all sources of healing, regeneration and lifesteal are reduced by 40% while dealing [object Object] damage per second.<br><br>Sub-Zero Shroud is 50% more effective against units affected by Radiant Blast<br><br>Illusions deal [object Object] damage instead.<br><br>Radius: 1200\n\n<h1>Passive: Unholy Endurance</h1> For every 10% current health as damage that equipped hero receives, it gains a stack of Endurance for 8s up to a maximum of 10 charges. Each charge increases Eternal Shroud's magic resistance by 2% and its armor by 1.",
+        "Lore": "A pristine hood that feeds upon strife to empower its owner."
+    },
+    {
+        "item_force_boots": "Force Boots",
+        "bonus_armor": "4",
+        "bonus_attack_speed": "+$attack",
+        "bonus_damage_melee": "280",
+        "bonus_damage_range": "220",
+        "bonus_health": "175",
+        "bonus_intellect": "10",
+        "bonus_movement_speed": "50",
+        "bonus_str": "+$all",
+        "Description": "<h1>Active: Kinetic Jaunt</h1>Dispels the user and pushes them 600 units in the direction they are facing.<br><br>Afterwards, grants the user 20% increased movement speed (10% for ranged heroes) and lets you move through units and turn more quickly for 3.0 seconds.",
+        "Lore": "Elusive marvels never successfully studied for proper classification in the archives."
+    },
+    {
+        "item_force_boots_2": "Spiritsteppers",
+        "bonus_armor": "6",
+        "bonus_damage_melee": "620",
+        "bonus_damage_range": "420",
+        "bonus_health": "1530",
+        "bonus_intellect": "85",
+        "bonus_movement_speed": "50",
+        "Description": "<h1>Active: Kinetic Jaunt</h1>Dispels the user and pushes them 600 units in the direction they are facing.<br><br>Afterwards, grants the user 25% increased movement speed (15% for ranged heroes) and lets you move through units and turn more quickly for 3.0 seconds.",
+        "Lore": "Elusive marvels never successfully studied for proper classification in the archives."
+    },
+    {
+        "item_force_boots_3": "Boots of Limbo",
+        "bonus_armor": "8",
+        "bonus_damage_melee": "1100",
+        "bonus_damage_range": "850",
+        "bonus_health": "5130",
+        "bonus_intellect": "310",
+        "bonus_movement_speed": "50",
+        "Description": "<h1>Active: Kinetic Jaunt</h1>Dispels the user and pushes them 600 units in the direction they are facing.<br><br>Afterwards, grants the user 30% increased movement speed (20% for ranged heroes) and lets you move through units and turn more quickly for 3.0 seconds.",
+        "Lore": "Elusive marvels never successfully studied for proper classification in the archives."
+    },
+    {
+        "item_force_boots_4": "Boots of Rapture",
+        "bonus_armor": "10",
+        "bonus_damage_melee": "2350",
+        "bonus_damage_range": "1640",
+        "bonus_health": "13250",
+        "bonus_intellect": "985",
+        "bonus_movement_speed": "50",
+        "Description": "<h1>Active: Kinetic Jaunt</h1>Dispels the user and pushes them 600 units in the direction they are facing.<br><br>Afterwards, grants the user 35% increased movement speed (25% for ranged heroes) and lets you move through units and turn more quickly for 3.0 seconds.",
+        "Lore": "Elusive marvels never successfully studied for proper classification in the archives."
+    },
+    {
+        "item_force_boots_5": "Boots of Nothing",
+        "bonus_armor": "12",
+        "bonus_damage_melee": "4360",
+        "bonus_damage_range": "2980",
+        "bonus_health": "26730",
+        "bonus_intellect": "3485",
+        "bonus_movement_speed": "50",
+        "Description": "<h1>Active: Kinetic Jaunt</h1>Dispels the user and pushes them 600 units in the direction they are facing.<br><br>Afterwards, grants the user 40% increased movement speed (30% for ranged heroes) and lets you move through units and turn more quickly for 3.0 seconds.",
+        "Lore": "Elusive marvels never successfully studied for proper classification in the archives."
+    },
+    {
+        "item_ethereal_blade_2": "Wraith Blade",
+        "bonus_agility": "45",
+        "bonus_evasion": "13",
+        "bonus_aoe": "100",
+        "cast_range_bonus": "+$cast_range",
+        "bonus_intellect": "65",
+        "bonus_strength": "65",
+        "Description": "<h1>Active: Ether Blast</h1>Converts the target unit to ethereal form, applying effects depending on if they are an ally or enemy. Allies are rendered immune to physical damage, while enemies become unable to attack and become -30% more vulnerable to magic damage.<br><br>Enemy targets are also slowed by -80%, and take 3.0x your primary attribute + 2500 as magical damage.<br><br>Range: %abilitycastrange%<br>Duration: 4.0 seconds",
+        "regen_amp": "25",
+        "bonus_mana_regen": "3.5",
+        "bonus_mana": "500",
+        "status_resistance": "18"
+    },
+    {
+        "item_ethereal_blade_3": "Baobhan Sith",
+        "bonus_agility": "135",
+        "bonus_evasion": "14",
+        "bonus_aoe": "125",
+        "cast_range_bonus": "+$cast_range",
+        "bonus_intellect": "155",
+        "bonus_strength": "155",
+        "Description": "<h1>Active: Ether Blast</h1>Converts the target unit to ethereal form, applying effects depending on if they are an ally or enemy. Allies are rendered immune to physical damage and restore 35% more mana and health from all sources, while enemies become unable to attack and become -35% more vulnerable to magic damage.<br><br>Enemy targets are also slowed by -80%, and take 4.5x your primary attribute + 5250 as magical damage.<br><br>Range: %abilitycastrange%<br>Duration: 4.0 seconds",
+        "regen_amp": "30",
+        "bonus_mana_regen": "4.5",
+        "bonus_mana": "750",
+        "status_resistance": "20"
+    },
+    {
+        "item_ethereal_blade_4": "Glaistig",
+        "bonus_agility": "405",
+        "bonus_evasion": "15",
+        "bonus_aoe": "150",
+        "cast_range_bonus": "+$cast_range",
+        "bonus_intellect": "385",
+        "bonus_strength": "385",
+        "Description": "<h1>Active: Ether Blast</h1>Converts the target unit to ethereal form, applying effects depending on if they are an ally or enemy. Allies are rendered immune to physical damage and restore 35% more mana and health from all sources, while enemies become unable to attack and become -35% more vulnerable to magic damage.<br><br>Enemy targets are also slowed by -80%, and take 4.5x your primary attribute + 5250 as magical damage, while allies' movement speed is increased and they are healed for that amount instead.<br><br>Range: %abilitycastrange%<br>Duration: 4.0 seconds",
+        "regen_amp": "35",
+        "bonus_mana_regen": "6",
+        "bonus_mana": "1250",
+        "status_resistance": "22"
+    },
+    {
+        "item_ethereal_blade_5": "Samodiva",
+        "bonus_agility": "1405",
+        "bonus_evasion": "16",
+        "bonus_aoe": "175",
+        "cast_range_bonus": "+$cast_range",
+        "bonus_intellect": "1385",
+        "bonus_strength": "1385",
+        "Description": "<h1>Active: Ether Blast</h1>Converts the target unit to ethereal form, applying effects depending on if they are an ally or enemy. Allies are rendered immune to physical damage and restore 35% more mana and health from all sources, while enemies become unable to attack and become -35% more vulnerable to magic damage.<br><br>Enemy targets are also slowed by -80%, and take 4.5x your primary attribute + 5250 as magical damage, while allies' movement speed is increased and they are healed for that amount instead.<br><br>The blast bounces once to the nearest unit of the opposite team within [object Object] range of the target.<br><br>Range: %abilitycastrange%<br>Duration: 4.0 seconds",
+        "regen_amp": "40",
+        "bonus_mana_regen": "8",
+        "bonus_mana": "2250",
+        "status_resistance": "24"
+    },
+    {
+        "item_gleipnir2": "Bindings of Cerberus",
+        "bonus_agility": "+$agi",
+        "bonus_damage": "380",
+        "bonus_intellect": "210",
+        "bonus_strength": "+$str",
+        "bonus_hp": "1700",
+        "Description": "<h1>Active: Eternal Chains</h1>Roots all enemies in a target 450 radius for 2.0 seconds and deals [object Object] damage.<br><br>Range: %abilitycastrange% \n\n<h1>Passive: Chain Lightning</h1>Grants a 35% chance on attack to release a bolt of electricity that leaps between 6 targets within a 650 radius, dealing [object Object] magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Bindings forged by impossible means to leash an ancient evil."
+    },
+    {
+        "item_gleipnir3": "Chains of Carceri",
+        "bonus_agility": "+$agi",
+        "bonus_damage": "1280",
+        "bonus_intellect": "775",
+        "bonus_strength": "+$str",
+        "bonus_hp": "4925",
+        "Description": "<h1>Active: Eternal Chains</h1>Roots all enemies in a target 450 radius for 2.0 seconds and deals [object Object] damage.<br><br>Range: %abilitycastrange% \n\n<h1>Passive: Chain Lightning</h1>Grants a 40% chance on attack to release a bolt of electricity that leaps between 8 targets within a 650 radius, dealing [object Object] magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Bindings forged by impossible means to leash an ancient evil."
+    },
+    {
+        "item_gleipnir4": "Lightbringer Shackles",
+        "bonus_agility": "+$agi",
+        "bonus_damage": "3200",
+        "bonus_intellect": "2460",
+        "bonus_strength": "+$str",
+        "bonus_hp": "14560",
+        "Description": "<h1>Active: Eternal Chains</h1>Roots all enemies in a target 450 radius for 2.0 seconds and deals [object Object] damage.<br><br>Range: %abilitycastrange% \n\n<h1>Passive: Chain Lightning</h1>Grants a 45% chance on attack to release a bolt of electricity that leaps between 10 targets within a 650 radius, dealing [object Object] magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Bindings forged by impossible means to leash an ancient evil."
+    },
+    {
+        "item_gleipnir5": "Cage of the Forgotten",
+        "bonus_agility": "+$agi",
+        "bonus_damage": "4800",
+        "bonus_intellect": "8715",
+        "bonus_strength": "+$str",
+        "bonus_hp": "49950",
+        "Description": "<h1>Active: Eternal Chains</h1>Roots all enemies in a target 450 radius for 2.0 seconds and deals [object Object] damage.<br><br>Range: %abilitycastrange% \n\n<h1>Passive: Chain Lightning</h1>Grants a 50% chance on attack to release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing [object Object] magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Bindings forged by impossible means to leash an ancient evil."
+    },
+    {
+        "item_guardian_greaves_2": "Phantom's Greaves",
+        "bonus_all_stats": "40",
+        "bonus_armor": "6",
+        "bonus_health": "925",
+        "bonus_mana": "575",
+        "bonus_movement": "50",
+        "Description": "<h1>Active: Mend</h1>Restores health equal to 1200 + 150 per charge  and mana equal to 200 + 20 to nearby allies, and dispels the caster.<br><br>Radius: 900<br>Max 20 charges. Automatically gains a charge every 10 seconds and whenever a visible enemy within the aura uses an ability.<br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span>\n\n<h1>Passive: Guardian Aura</h1> Grants 30 health regeneration and 4 armor to allied units. If an allied hero's health falls below 25%, this is increased to 60 health regeneration and 10 armor. <br><br>Radius: 1200 \nMovement speed bonuses from multiple pairs of boots do not stack.",
+        "heal_increase": "35"
+    },
+    {
+        "item_guardian_greaves_3": "Pactmaker's Greaves",
+        "bonus_all_stats": "140",
+        "bonus_armor": "7",
+        "bonus_health": "3175",
+        "bonus_mana": "855",
+        "bonus_movement": "50",
+        "Description": "<h1>Active: Mend</h1>Restores health equal to 2500 + 250 per charge  and mana equal to 350 + 25 to nearby allies, and dispels the caster.<br><br>Radius: 900<br>Max 20 charges. Automatically gains a charge every 9 seconds and whenever a visible enemy within the aura uses an ability.<br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span>\n\n<h1>Passive: Guardian Aura</h1> Grants 81 health regeneration and 5 armor to allied units. If an allied hero's health falls below 25%, this is increased to 195 health regeneration and 12 armor. <br><br>Radius: 1200 \nMovement speed bonuses from multiple pairs of boots do not stack.",
+        "heal_increase": "40"
+    },
+    {
+        "item_guardian_greaves_4": "Chosen's Greaves",
+        "bonus_all_stats": "420",
+        "bonus_armor": "8",
+        "bonus_health": "9475",
+        "bonus_mana": "1275",
+        "bonus_movement": "50",
+        "Description": "<h1>Active: Divine Mend</h1>You dispel yourself, become Debuff Immune and gain 50% Magic Resistance. You then restores health equal to 15500 + 450 per charge  and mana equal to 1450 + 35 to nearby allies.<br><br>Radius: 900<br>Max 20 charges. Automatically gains a charge every 8 seconds and whenever a visible enemy within the aura uses an ability.<br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span>\n\n<h1>Passive: Guardian Aura</h1> Grants 225 health regeneration and 6 armor to allied units. If an allied hero's health falls below 25%, this is increased to 560 health regeneration and 14 armor. <br><br>Radius: 1200 \nMovement speed bonuses from multiple pairs of boots do not stack.",
+        "heal_increase": "45"
+    },
+    {
+        "item_guardian_greaves_5": "Forgotten's Greaves",
+        "bonus_all_stats": "1500",
+        "bonus_armor": "8",
+        "bonus_health": "33775",
+        "bonus_mana": "2895",
+        "bonus_movement": "50",
+        "Description": "<h1>Active: Divine Mend</h1>You dispel yourself, become Debuff Immune and gain 50% Magic Resistance. You then restores health equal to 65500 + 850 per charge  and mana equal to 4450 + 85 to nearby allies.<br><br>Radius: 900<br>Max 20 charges. Automatically gains a charge every 7 seconds and whenever a visible enemy within the aura uses an ability.<br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span>\n\n<h1>Passive: Guardian Aura</h1> Grants 795 health regeneration and 7 armor to allied units. If an allied hero's health falls below 25%, this is increased to 1975 health regeneration and 16 armor. <br><br>Radius: 1200 \nMovement speed bonuses from multiple pairs of boots do not stack.",
+        "heal_increase": "45"
+    },
+    {
+        "item_gungnir": "Ascalon",
+        "bonus_attack_speed": "75",
+        "bonus_damage": "360",
+        "Description": "<h1>Passive: Pierce</h1>Grants each attack a 80% chance to pierce through evasion and deal 500 bonus pure damage.",
+        "Lore": "This legendary spear is able to ignore the armor of the enemy."
+    },
+    {
+        "item_gungnir_2": "Gungnir",
+        "bonus_attack_speed": "100",
+        "bonus_damage": "1300",
+        "Description": "<h1>Passive: Pierce</h1>Grants each attack a 80% chance to pierce through evasion and deal 1000 + 5% of your total attack damage as bonus pure damage.",
+        "Lore": "This legendary spear is able to ignore the armor of the enemy."
+    },
+    {
+        "item_gungnir_3": "Divine Crossbow",
+        "bonus_attack_speed": "125",
+        "bonus_damage": "4000",
+        "Description": "<h1>Passive: Pierce</h1>Your attacks have true-strike and deal an additional 2000 + 10% of your total attack damage as pure damage.",
+        "Lore": "Antique CrossBow blessed by hunter godess Artemis."
+    },
+    {
+        "item_gungifier_4": "Soulslayer",
+        "bonus_armor": "21",
+        "bonus_attack_speed": "150",
+        "bonus_damage": "13700",
+        "bonus_regen": "1500",
+        "bonus_strength": "1000",
+        "Description": "<h1>Active: Nullify</h1> Dispels the target and applies a modifier for 5.0 seconds. Continuously dispels the target.<br>Allied targets become magic immune.<br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Hard Dispel</span>\n<h1>Passive: Pierce</h1>Your attacks have true-strike and deal an additional 4000 + 15% of your total attack damage as pure damage.",
+        "Lore": "Antique CrossBow blessed by hunter godess Artemis."
+    },
+    {
+        "item_heart_2": "Giant's Heart",
+        "bonus_health": "+$health",
+        "bonus_strength": "185",
+        "Description": "<h1>Active: Indomitable Vigor</h1>Increases health and mana regeneration, healing received, lifesteal, spell lifesteal by 155% for 8 seconds.",
+        "health_regen_pct": "1.8",
+        "Lore": "This heart was extracted from a primordial giant."
+    },
+    {
+        "item_heart_3": "Titan Heart",
+        "bonus_health": "+$health",
+        "bonus_strength": "545",
+        "Description": "<h1>Active: Indomitable Vigor</h1>Increases health and mana regeneration, healing received, lifesteal, spell lifesteal by 170% for 8 seconds.",
+        "health_regen_pct": "2.0",
+        "Lore": "This heart was extracted from a living titan."
+    },
+    {
+        "item_heart_4": "Divine Heart",
+        "bonus_health": "+$health",
+        "bonus_strength": "1625",
+        "Description": "<h1>Active: Incandescent Vigor</h1>Increases health and mana regeneration, healing received, lifesteal, spell lifesteal by 185%, gain 50% Magic Resistance and become Debuff Immune for 8 seconds.",
+        "health_regen_pct": "2.2",
+        "Lore": "A heart infused with divine essence, an ancient god's provisional heart."
+    },
+    {
+        "item_heart_5": "Bahamut's Heart",
+        "bonus_health": "+$health",
+        "bonus_strength": "5625",
+        "Description": "<h1>Active: Incandescent Vigor</h1>Increases health and mana regeneration, healing received, lifesteal, spell lifesteal by 200%, gain 50% Magic Resistance and become Debuff Immune for 8 seconds.",
+        "health_regen_pct": "2.4",
+        "Lore": "How it fits in your chest, or why implanting a heart bigger than yourself would grant you unending vitality, is a mystery better left unsolved."
+    },
+    {
+        "item_asura_heart": "Asura Heart",
+        "bonus_health": "+$health",
+        "bonus_strength": "12150",
+        "Description": "<h1>Active: Incandescent Vigor</h1>Increases health and mana regeneration, healing received, lifesteal, spell lifesteal by 250%, gain 50% Magic Resistance and become Debuff Immune for 8 seconds.\n<h1>Passive - Asura's Strength</h1>The strength bonus from this item increases by 500 every round.",
+        "health_regen_percent": "%+Max Health Regen",
+        "Lore": "you can feel you heart burn from its corruption.",
+        "Note0": "New Game + "
+    },
+    {
+        "item_hurricane_pike_2": "Tornado Pike",
+        "base_attack_range": "200",
+        "bonus_agility": "50",
+        "bonus_health": "600",
+        "bonus_intellect": "45",
+        "bonus_strength": "45",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make 6 attacks against the target without range restrictions and with +130 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes.",
+        "Lore": "A legendary pike once held as royal sigil of the ancient wyvern riders.",
+        "Note0": "Self-cast will use Hurricane Pike on yourself.",
+        "Note1": "Hurricane Pike doesn't interrupt the target's actions.",
+        "Note2": "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+    },
+    {
+        "item_hurricane_pike_3": "Storm Pike",
+        "base_attack_range": "250",
+        "bonus_agility": "160",
+        "bonus_health": "3600",
+        "bonus_intellect": "140",
+        "bonus_strength": "140",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make 7 attacks against the target without range restrictions and with +160 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes.",
+        "Lore": "A legendary pike once held as royal sigil of the ancient wyvern riders.",
+        "Note0": "Self-cast will use Hurricane Pike on yourself.",
+        "Note1": "Hurricane Pike doesn't interrupt the target's actions.",
+        "Note2": "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+    },
+    {
+        "item_hurricane_pike_4": "Typhoon Pike",
+        "base_attack_range": "300",
+        "bonus_agility": "500",
+        "bonus_health": "14500",
+        "bonus_intellect": "450",
+        "bonus_strength": "450",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make 8 attacks against the target without range restrictions and with +190 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes.",
+        "Lore": "A legendary pike once held as royal sigil of the ancient wyvern riders.",
+        "Note0": "Self-cast will use Hurricane Pike on yourself.",
+        "Note1": "Hurricane Pike doesn't interrupt the target's actions.",
+        "Note2": "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+    },
+    {
+        "item_hurricane_pike_5": "Tempest Pike",
+        "base_attack_range": "400",
+        "bonus_agility": "1600",
+        "bonus_health": "58000",
+        "bonus_intellect": "1600",
+        "bonus_strength": "1600",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make 9 attacks against the target without range restrictions and with +220 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive:  Dragon's Reach</h1> Increases attack range of ranged heroes.",
+        "Lore": "A legendary pike once held as royal sigil of the ancient wyvern riders.",
+        "Note0": "Self-cast will use Hurricane Pike on yourself.",
+        "Note1": "Hurricane Pike doesn't interrupt the target's actions.",
+        "Note2": "Will not work on a unit inside Chronosphere, Duel, or Black Hole."
+    },
+    {
+        "item_kaya_and_sange_2": "Blades of Prejudice",
+        "bonus_armor": "+$armor",
+        "bonus_intellect": "41",
+        "bonus_regen": "+$hp_regen",
+        "bonus_strength": "41",
+        "Description": "<h1>Passive: Guardian's Fury</h1>When you take damage, you gain a stack of Fury. Fury stacks increases your spell damage by 1.6% for each stack.<br><br>You can get a maximum of 15 stacks of Fury and if you do not take damage for 1.5 seconds, you start losing Fury stacks, losing all stacks after 3 seconds.",
+        "Lore": "Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.",
+        "restore_amp": "14",
+        "spell_amp": "25",
+        "spell_lifesteal": "4",
+        "status_resistance": "24"
+    },
+    {
+        "item_kaya_and_sange_3": "Belial's Bargain",
+        "bonus_armor": "+$armor",
+        "bonus_intellect": "120",
+        "bonus_regen": "+$hp_regen",
+        "bonus_spell_resist": "%+$spell_resist",
+        "bonus_strength": "120",
+        "Description": "<h1>Passive: Guardian's Rampart</h1>When you take damage, you gain a stack of Fury. Fury stacks increases your spell damage by 1.8% for each stack.<br><br>You can get a maximum of 20 stacks of Fury and if you do not take damage for 1.5 seconds, you start losing Fury stacks, losing all stacks after 3 seconds.<br><br>When you spend mana while you have stacks of Fury, you gain barrier, blocking all forms of damage, equal to 20x the mana spent.",
+        "Lore": "Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.",
+        "Note0": "The barrier stacks, but is lost propertionally to the stacks of Fury lost.",
+        "restore_amp": "16",
+        "spell_amp": "36",
+        "spell_lifesteal": "5",
+        "status_resistance": "26"
+    },
+    {
+        "item_kaya_and_sange_4": "Heartwood Cutters",
+        "bonus_armor": "+$armor",
+        "bonus_health": "6800",
+        "bonus_intellect": "345",
+        "bonus_mana": "1700",
+        "bonus_regen": "+$hp_regen",
+        "bonus_spell_resist": "%+$spell_resist",
+        "bonus_strength": "345",
+        "Description": "<h1>Passive: Guardian's Shroud</h1>When you take damage, you gain a stack of Fury. Fury stacks increases your spell damage by 2.2% for each stack.<br><br>You can get a maximum of 25 stacks of Fury and if you do not take damage for 1.5 seconds, you start losing Fury stacks, losing all stacks after 3 seconds.<br><br>When you spend mana while you have stacks of Fury, you gain barrier, blocking all forms of damage, equal to 40x the mana spent.",
+        "health_per_str": "5",
+        "Lore": "Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.",
+        "Note0": "The barrier stacks, but is lost propertionally to the stacks of Fury lost.",
+        "restore_amp": "18",
+        "spell_amp": "54",
+        "spell_lifesteal": "6",
+        "status_resistance": "28"
+    },
+    {
+        "item_kaya_and_sange_5": "Blades of Unity",
+        "bonus_armor": "+$armor",
+        "bonus_health": "19300",
+        "bonus_intellect": "1420",
+        "bonus_mana": "4200",
+        "bonus_regen": "+$hp_regen",
+        "bonus_spell_resist": "%+$spell_resist",
+        "bonus_strength": "1420",
+        "Description": "<h1>Passive: Guardian's Shroud</h1>When you take damage, you gain a stack of Fury. Fury stacks increases your spell damage by 3% for each stack.<br><br>You can get a maximum of 30 stacks of Fury and if you do not take damage for 1.5 seconds, you start losing Fury stacks, losing all stacks after 3 seconds.<br><br>When you spend mana while you have stacks of Fury, you gain barrier, blocking all forms of damage, equal to 80x the mana spent.\n\n<h1>Passive: Combo Breaker</h1> When you take damage and your health falls below 45%, a strong dispel is applied and you gain a 5.0 second buff that provides Spell Immunity and causes all damage you are dealt to be reduced to zero. Has a 60.0 internal cooldown.<br/><br/>Dispel Type: <span class='GameplayValues GameplayVariable'>Strong Dispel</span>",
+        "health_per_str": "6",
+        "Lore": "Two of three known items of unimaginable power that many believe were crafted at the same enchanter's forge.",
+        "Note0": "The barrier stacks, but is lost propertionally to the stacks of Fury lost.",
+        "restore_amp": "20",
+        "spell_amp": "90",
+        "spell_lifesteal": "8",
+        "status_resistance": "30"
+    },
+    {
+        "item_lifesteal2": "Demon Mask",
+        "bonus_all": "40",
+        "bonus_armor": "8",
+        "bonus_damage": "240",
+        "Description": "<h1>Aura: Demon's Aura</h1>Grants 10.5% lifesteal, 21% bonus damage, 3.5 mana regeneration, 16 health regeneration and 5 armor to nearby allies. <br><br>Radius: 1200",
+        "Lore": "The mask of an elder demon who was known to steal the souls of humans"
+    },
+    {
+        "item_lifestealtank": "Blood Gem",
+        "bonus_all": "170",
+        "bonus_armor": "8",
+        "bonus_damage": "600",
+        "Description": "<h1>Aura: Gift of Blood</h1>Grants 10.5% lifesteal, 21% bonus damage, 10.5 mana regeneration, 50 health regeneration and 5 armor to nearby allies.<br><br>The damage dealt by your allies' attacks heals you for the lifesteal they receive divided by the number of allies benefiting from your aura.<br><br>Radius: 1200",
+        "DOTA_Tooltip_modifier_item_lifestealtank_ebf_aura": "Gift of Blood",
+        "DOTA_Tooltip_modifier_item_lifestealtank_ebf_aura_Description": "Gaining %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%% damage, %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% armor, %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT% mana regeneration and %fMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health regeneration. %dMODIFIER_PROPERTY_TOOLTIP%%% of your damage heals this buff's owner."
+    },
+    {
+        "item_lifesteal3": "Blood Mask",
+        "bonus_all": "170",
+        "bonus_armor": "12",
+        "bonus_damage": "940",
+        "Description": "<h1>Aura: Thirsting Aura</h1>Grants 12% lifesteal, 24% bonus damage, 10.5 mana regeneration, 50 health regeneration and 7 armor to nearby allies. <br><br>Radius: 1200",
+        "Lore": "This cursed mask was used in many sacrifices."
+    },
+    {
+        "item_lifesteal4": "Void Mask",
+        "bonus_all": "600",
+        "bonus_armor": "14",
+        "bonus_damage": "2800",
+        "Description": "<h1>Aura: Aura of the Void</h1>Grants 13.5% lifesteal, 27% bonus damage, 31.5 mana regeneration, 200 health regeneration and 8 armor to nearby allies. <br><br>Radius: 1200",
+        "Lore": "This mask is so empty that any energylife it senses is immediatly absorbed into the void of it's eyes"
+    },
+    {
+        "item_lifesteal5": "Mask of the God-King",
+        "bonus_all": "1800",
+        "bonus_armor": "16",
+        "bonus_damage": "9200",
+        "Description": "<h1>Aura: Hunger of the God-King</h1>Grants 14.5% lifesteal, 31% bonus damage, 31.5 mana regeneration, 800 health regeneration and 10 armor to nearby allies. <br><br>Radius: 1200",
+        "Lore": "This mask is so empty that any energylife it senses is immediatly absorbed into the void of it's eyes"
+    },
+    {
+        "item_mjollnir_2": "Thunderstruck Mjollnir",
+        "bonus_attack_speed": "80",
+        "bonus_damage": "380",
+        "Description": "<h1>Active: Static Charge</h1>Places a charged shield on a target unit for 15.0 seconds which has a 20% chance to release a 900 magical damage shocking bolt at a nearby attacker and 4 additional enemies.<br><br>Range: %abilitycastrange%\n<h1>Passive: Chain Lightning</h1>Grants a 35% chance on attack to release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing 345 magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Thor's hammer of myth, struck by a powerful bolt of lightning by another god of lightning.",
+        "Note0": "Static Charge cannot trigger more than once per second.",
+        "Note1": "Static Charge's shock deals magical damage centered on hero with the Static Charge. Static Charge's targets cannot be more than %static_seconary_radius% range away.",
+        "Note2": "Static Charge procs will not bounce to units that are invisible or hidden by Fog of War."
+    },
+    {
+        "item_mjollnir_3": "Fateforger",
+        "bonus_attack_speed": "120",
+        "bonus_damage": "1280",
+        "Description": "<h1>Active: Static Charge</h1>Places a charged shield on a target unit for 15.0 seconds which has a 20% chance to release a 3625 magical damage shocking bolt at a nearby attacker and 4 additional enemies.<br><br>Range: %abilitycastrange%\n<h1>Passive: Chain Lightning</h1>Grants a 40% chance on attack to release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing 1150 magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Thor's hammer of myth, struck by a powerful bolt of lightning by another god of lightning.",
+        "Note0": "Static Charge cannot trigger more than once per second.",
+        "Note1": "Static Charge's shock deals magical damage centered on hero with the Static Charge. Static Charge's targets cannot be more than %static_seconary_radius% range away.",
+        "Note2": "Static Charge procs will not bounce to units that are invisible or hidden by Fog of War."
+    },
+    {
+        "item_mjollnir_4": "Plane Anvil",
+        "bonus_attack_speed": "160",
+        "bonus_damage": "3600",
+        "Description": "<h1>Active: Static Charge</h1>Places a charged shield on a target unit for 15.0 seconds which has a 20% chance to release a 15000 magical damage shocking bolt at a nearby attacker and 4 additional enemies.<br><br>Range: %abilitycastrange%\n<h1>Passive: Chain Lightning</h1>Grants a 45% chance on attack to release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing 3250 magical damage to each. Lightning proc pierces evasion.",
+        "Lore": "Thor's hammer of myth, struck by a powerful bolt of lightning by another god of lightning.",
+        "Note0": "Static Charge cannot trigger more than once per second.",
+        "Note1": "Static Charge's shock deals magical damage centered on hero with the Static Charge. Static Charge's targets cannot be more than %static_seconary_radius% range away.",
+        "Note2": "Static Charge procs will not bounce to units that are invisible or hidden by Fog of War."
+    },
+    {
+        "item_mjollnir_5": "Scythe of Decay",
+        "bonus_all_stats": "1600",
+        "bonus_attack_speed": "200",
+        "bonus_damage": "5000",
+        "Description": "<h1>Active: Static Charge</h1>Places a charged shield on a target unit for 15.0 seconds which has a 20% chance to release a 58125 magical damage shocking bolt at a nearby attacker and 4 additional enemies.<br><br>Range: %abilitycastrange%\n<h1>Passive: Chain Lightning</h1>Grants a 50% chance on attack to release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing 6000 magical damage to each. Lightning proc pierces evasion.\n<h1>Passive: Bolts of Rot</h1>Lightning bolts from this item cause units hit by them to take 32% increased spell damage for 5.0 seconds.\n\n<h1>Passive: Basilius Aura</h1>Grants 50 mana regeneration to allies.  <br><br>Radius: 1200",
+        "Lore": "Thor's hammer of myth, struck by a powerful bolt of lightning by another god of lightning.",
+        "Note0": "Static Charge cannot trigger more than once per second.",
+        "Note1": "Static Charge's shock deals magical damage centered on hero with the Static Charge. Static Charge's targets cannot be more than %static_seconary_radius% range away.",
+        "Note2": "Static Charge procs will not bounce to units that are invisible or hidden by Fog of War."
+    },
+    {
+        "item_nullifier_2": "Dark Nullifier",
+        "bonus_armor": "15",
+        "bonus_damage": "430",
+        "bonus_regen": "35",
+        "Description": "<h1>Active: Nullify</h1> Dispels the target and applies a modifier for 5.0 seconds. Continuously dispels the target.<br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span>",
+        "lore": "A dangerous weapon pilfered from an inverse dimension."
+    },
+    {
+        "item_nullifier_3": "Dreadful Nullifier",
+        "bonus_armor": "17",
+        "bonus_damage": "1230",
+        "bonus_regen": "175",
+        "Description": "<h1>Active: Nullify</h1> Dispels the target and applies a modifier for 5.0 seconds. Continuously dispels the target.<br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Hard Dispel</span>",
+        "lore": "A dangerous weapon pilfered from an inverse dimension."
+    },
+    {
+        "item_nullifier_4": "Divine Nullifier",
+        "bonus_armor": "20",
+        "bonus_damage": "3700",
+        "bonus_regen": "400",
+        "bonus_strength": "240",
+        "Description": "<h1>Active: Nullify</h1> Dispels the target and applies a modifier for 5.0 seconds. Continuously dispels the target.<br>Allied targets become debuff immune and gain 50% Magic Resistance.<br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Hard Dispel</span>",
+        "lore": "A dangerous weapon pilfered from an inverse dimension."
+    },
+    {
+        "item_hourglass_shard": "Hourglass Fragment",
+        "bonus_cooldown": "8",
+        "Lore": "A shard from a mystical timekeeping piece."
+    },
+    {
+        "item_octarine_core2": "Spiritual Core",
+        "bonus_cooldown": "15",
+        "bonus_health": "1775",
+        "bonus_health_regen": "25.25",
+        "bonus_mana": "515",
+        "bonus_mana_regen": "8.7",
+        "Description": "<h1>Active: Reset</h1>Resets the cooldowns of all your items and abilities.",
+        "Lore": "This used to be the core of a mysterious planet."
+    },
+    {
+        "item_octarine_core3": "Ethereal Core",
+        "bonus_cooldown": "20",
+        "bonus_health": "5825",
+        "bonus_health_regen": "45.5",
+        "bonus_mana": "785",
+        "bonus_mana_regen": "8.05",
+        "Description": "<h1>Active: Reset</h1>Resets the cooldowns of all your items and abilities.",
+        "Lore": "This used to be the core of a mysterious planet."
+    },
+    {
+        "item_octarine_core4": "Celestial Core",
+        "bonus_cooldown": "25",
+        "bonus_health": "18425",
+        "bonus_health_regen": "110",
+        "bonus_mana": "1625",
+        "bonus_mana_regen": "14.25",
+        "Description": "<h1>Active: Reset</h1>Resets the cooldowns of all your items and abilities.",
+        "Lore": "This used to be the core of a mysterious planet."
+    },
+    {
+        "item_octarine_core5": "Otherworldly Core",
+        "bonus_cooldown": "30",
+        "bonus_health": "67925",
+        "bonus_health_regen": "344",
+        "bonus_mana": "4925",
+        "bonus_mana_regen": "24.75",
+        "Description": "<h1>Active: Reset</h1>Resets the cooldowns of all your items and abilities.",
+        "Lore": "This used to be the core of a mysterious planet."
+    },
+    {
+        "item_asura_core": "Asura Core",
+        "bonus_cooldown": "35",
+        "bonus_health": "180425",
+        "bonus_health_regen": "906.5",
+        "bonus_mana": "12425",
+        "bonus_mana_regen": "62.25",
+        "Description": "<h1>Active: Reset</h1>Resets the cooldowns of all your items and abilities.\n<h1>Passive - Asura's Strength</h1>Every round, the health bonus from this item increases by 11675, the mana bonus increases by 1175, the health regeneration bonus increases by 62.75 and the mana regeneration bonus increases by 6.",
+        "Lore": "This used to be the core of a mysterious planet."
+    },
+    {
+        "item_phylactery_2": "Dark Phylactery",
+        "bonus_all_stats": "40",
+        "bonus_health": "860",
+        "bonus_mana": "260",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals a separate 2000 bonus damage to the target and all enemies within 300 units of it, slowing them by 50% for 1.2s."
+    },
+    {
+        "item_phylactery_3": "Demon's Phylactery",
+        "bonus_all_stats": "130",
+        "bonus_health": "2850",
+        "bonus_mana": "450",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals a separate 6500 bonus damage to the target and all enemies within 600 units of it, slowing them by 50% for 1.2s."
+    },
+    {
+        "item_phylactery_4": "Angelic Phylactery",
+        "bonus_all_stats": "400",
+        "bonus_health": "8800",
+        "bonus_mana": "1000",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals a separate 10000 bonus damage to the target and all enemies within 900 units of it, slowing them by 50% for 1.2s."
+    },
+    {
+        "item_phylactery_5": "Unmeasurable Phylactery",
+        "bonus_all_stats": "1400",
+        "bonus_health": "30800",
+        "bonus_mana": "3000",
+        "Description": "<h1>Passive: Empower Spell</h1> The next Unit Target spell you cast on an enemy deals a separate 25000 bonus damage to the target and all enemies within 1200 units of it, slowing them by 50% for 1.2s."
+    },
+    {
+        "item_radiance_2": "Brilliant Radiance",
+        "bonus_all": "30",
+        "bonus_damage": "400",
+        "Description": "<h1>Passive: Burn</h1> When active, scorches enemies for [object Object] magical damage per second and causes them to miss 17% of their attacks. Illusions deal 150 magical damage per second.<br><br>Radius: 800",
+        "evasion": "17",
+        "Lore": "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.",
+        "DOTA_Tooltip_modifier_item_radiance_2_burn": "Burn Damage",
+        "DOTA_Tooltip_modifier_item_radiance_2_burn_Description": "Taking damage every second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+    },
+    {
+        "item_radiance_3": "Hellblaze",
+        "bonus_all": "120",
+        "bonus_damage": "1600",
+        "Description": "<h1>Passive: Burn</h1> When active, scorches enemies for [object Object] magical damage per second and causes them to miss 19% of their attacks. Illusions deal [object Object] magical damage per second.<br><br>Radius: 900",
+        "evasion": "19",
+        "Lore": "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies.",
+        "DOTA_Tooltip_modifier_item_radiance_3_burn": "Burn Damage",
+        "DOTA_Tooltip_modifier_item_radiance_3_burn_Description": "Taking damage every second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+    },
+    {
+        "item_zero": "Sub Zero",
+        "bonus_all": "500",
+        "bonus_damage": "2400",
+        "bonus_evasion": "21",
+        "bonus_health": "+$health",
+        "bonus_mana": "1000",
+        "Description": "<h1>Aura: Sub-Zero</h1> Deals [object Object] damage per second, slows movement speed by -10% and attack speed by -25, causes enemies to miss 20% of their attacks and reduces all healing they receive by -40.<br><br>Illusions deal [object Object] damage instead.<br><br>Radius: 1200",
+        "Lore": "Anyone hurt by this weapon is freezed for eternity.",
+        "DOTA_Tooltip_modifier_item_zero_burn": "Burn Damage",
+        "DOTA_Tooltip_modifier_item_zero_burn_Description": "Taking damage every second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+    },
+    {
+        "item_revenants_brooch_2": "Nightwalker's Brooch",
+        "Description": "<h1>Toggle: Phantom Province</h1>When enabled, attacks cost 70 mana and deal magical spell damage.\nDamage is not increased by spell amplification.",
+        "Lore": "The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.",
+        "bonus_damage": "300",
+        "spell_lifesteal": "5"
+    },
+    {
+        "item_revenants_brooch_3": "Hellspawn's Brooch",
+        "Description": "<h1>Toggle: Phantom Province</h1>When enabled, attacks cost 65 mana and deal magical spell damage.\nDamage is not increased by spell amplification.",
+        "Lore": "The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.",
+        "bonus_damage": "1000",
+        "spell_lifesteal": "5.5"
+    },
+    {
+        "item_revenants_brooch_4": "Galaxy Brooch",
+        "Description": "<h1>Toggle: Phantom Province</h1>When enabled, attacks cost 60 mana and deal magical spell damage.\nDamage is not increased by spell amplification.",
+        "Lore": "The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.",
+        "bonus_damage": "3600",
+        "spell_lifesteal": "6"
+    },
+    {
+        "item_revenants_brooch_5": "Brooch of Bahamut",
+        "Description": "<h1>Toggle: Phantom Province</h1>When enabled, attacks cost 55 mana and deal magical spell damage.\nDamage is not increased by spell amplification.",
+        "Lore": "The cursed brooch of a fallen guardian who stalks forever between the veil of life and death.",
+        "bonus_damage": "10000",
+        "spell_lifesteal": "6.5"
+    },
+    {
+        "item_sange_and_yasha_2": "Blades of Balance",
+        "bonus_agility": "45",
+        "bonus_attack_speed": "24",
+        "bonus_evasion": "10",
+        "bonus_strength": "45",
+        "Description": "<h1>Passive: Wait and See</h1>When a unit attemps to attack you, you gain a stack of Vengeance. Vengeance stacks increases your total attack damage by 1.35% for each stack.<br><br>When you attack, you gain a stack of Patience. Patience stacks increase your evasion by 1% for each stack.<br><br>You can get a maximum of 15 stacks of both Vengeance and Patience and if you are not attacked or attack for 1.5 seconds, you start losing Vengeance and Patience stacks respectively, losing all stacks after 3 seconds.",
+        "hp_regen_amp": "24",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "14",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "status_resistance": "24"
+    },
+    {
+        "item_sange_and_yasha_3": "Hellraisers",
+        "bonus_agility": "120",
+        "bonus_attack_speed": "36",
+        "bonus_damage": "900",
+        "bonus_evasion": "10",
+        "bonus_mana_regen": "7.5",
+        "bonus_strength": "120",
+        "Description": "<h1>Passive: Wait and See</h1>When a unit attemps to attack you, you gain a stack of Vengeance. Vengeance stacks increases your total attack damage by 1.7% for each stack.<br><br>When you attack, you gain a stack of Patience. Patience stacks increase your evasion by 1.2% for each stack.<br><br>You can get a maximum of 20 stacks of both Vengeance and Patience and if you are not attacked or attack for 1.5 seconds, you start losing Vengeance and Patience stacks respectively, losing all stacks after 3 seconds.\n<h1>Passive: Splash</h1> Deals 40% (20% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "hp_regen_amp": "26",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "16",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "status_resistance": "26"
+    },
+    {
+        "item_sange_and_yasha_4": "Blades of Mayhem",
+        "bonus_agility": "345",
+        "bonus_attack_speed": "48",
+        "bonus_damage": "2400",
+        "bonus_evasion": "10",
+        "bonus_health": "6800",
+        "bonus_mana": "1700",
+        "bonus_mana_regen": "8.0",
+        "bonus_strength": "345",
+        "Description": "<h1>Passive: Wait and See</h1>When a unit attemps to attack you, you gain a stack of Vengeance. Vengeance stacks increases your total attack damage by 2.05% for each stack.<br><br>When you attack, you gain a stack of Patience. Patience stacks increase your evasion by 1.4% for each stack.<br><br>You can get a maximum of 25 stacks of both Vengeance and Patience and if you are not attacked or attack for 1.5 seconds, you start losing Vengeance and Patience stacks respectively, losing all stacks after 3 seconds.\n<h1>Passive: Splash</h1> Deals 40% (20% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "health_per_str": "5",
+        "hp_regen_amp": "28",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "18",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "status_resistance": "28"
+    },
+    {
+        "item_sange_and_yasha_5": "Blood-cursed Blades",
+        "bonus_agility": "1270",
+        "bonus_attack_speed": "120",
+        "bonus_damage": "7200",
+        "bonus_evasion": "20",
+        "bonus_health": "14800",
+        "bonus_mana": "1800",
+        "bonus_mana_regen": "10.0",
+        "bonus_strength": "1270",
+        "Description": "<h1>Passive: Wait and See</h1>When a unit attemps to attack you, you gain a stack of Vengeance. Vengeance stacks increases your total attack damage by 2.4% for each stack.<br><br>When you attack, you gain a stack of Patience. Patience stacks increase your evasion by 1.6% for each stack.<br><br>You can get a maximum of 50 stacks of both Vengeance and Patience and if you are not attacked or attack for 1.5 seconds, you start losing Vengeance and Patience stacks respectively, losing all stacks after 3 seconds.\n<h1>Passive: Splash</h1> Deals 50% (25% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "health_per_str": "6",
+        "hp_regen_amp": "30",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "20",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "status_resistance": "30"
+    },
+    {
+        "item_satanic2": "Diabolic",
+        "bonus_damage": "456",
+        "bonus_strength": "100",
+        "Description": "<h1>Active: Unholy Rage</h1>Increases Lifesteal percentage to 125% for 6.0 seconds. <br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span> \n\n<h1>Passive: Lifesteal</h1>Heals the attacker for a percentage of attack damage dealt. Lifesteal from creeps is reduced by 10%.",
+        "lifesteal_percent": "15",
+        "Lore": "Immense power at the cost of your soul."
+    },
+    {
+        "item_satanic3": "Cruel",
+        "bonus_damage": "1600",
+        "bonus_strength": "325",
+        "Description": "<h1>Active: Unholy Rage</h1>Increases Lifesteal percentage to 150% for 6.0 seconds. <br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span> \n\n<h1>Passive: Lifesteal</h1>Heals the attacker for a percentage of attack damage dealt. Lifesteal from creeps is reduced by 10%.",
+        "lifesteal_percent": "17",
+        "Lore": "Immense power at the cost of your soul."
+    },
+    {
+        "item_satanic4": "Hallowed",
+        "bonus_damage": "5020",
+        "bonus_strength": "1000",
+        "Description": "<h1>Active: Unholy Rage</h1>Increases Lifesteal percentage to 175% for 6.0 seconds. <br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span> \n\n<h1>Passive: Lifesteal</h1>Heals the attacker for a percentage of attack damage dealt. Lifesteal from creeps is reduced by 10%.",
+        "lifesteal_percent": "19",
+        "Lore": "Immense power at the cost of your soul."
+    },
+    {
+        "item_satanic5": "Ominous",
+        "bonus_damage": "16420",
+        "bonus_strength": "3500",
+        "Description": "<h1>Active: Unholy Rage</h1>Increases Lifesteal percentage to 200% for 6.0 seconds. <br><br>Dispel Type: <span class='GameplayValues GameplayVariable'>Basic Dispel</span> \n\n<h1>Passive: Lifesteal</h1>Heals the attacker for a percentage of attack damage dealt. Lifesteal from creeps is reduced by 10%.",
+        "lifesteal_percent": "21",
+        "Lore": "Immense power at the cost of your soul."
+    },
+    {
+        "item_signet_of_destiny": "Signet of Destiny",
+        "bonus_armor": "2",
+        "bonus_health": "500",
+        "bonus_intellect": "50",
+        "bonus_mana": "+$mana",
+        "bonus_mana_regen": "1.75",
+        "bonus_other": "8",
+        "Description": "<h1>Active: Energy Burst</h1>Targets an allied or enemy unit. The target instantly restores health equal to 175 per charge and mana equal to 35 per charge if they're an ally or takes magical damage and loses mana equal to those if they're an enemy.<br><br>When used against enemies, it reduces health by 0.75% of current health per second, and reduces HP regeneration, healing, lifesteal and spell lifesteal by 45%, while dealing 35 damage per second. Allied units instead have their HP regeneration, healing, lifesteal and spell lifesteal increased by that amount while healing for the damage + 0.75% of their missing health per second.<br><br>Lasts 8.0 seconds.<br>Max 20 charges. Automatically gains a charge every 8 seconds, whenever a visible enemy within 1200 range uses an ability and gains 3 charges whenever any unit dies (6 for heroes).",
+        "heal_increase": "30",
+        "Lore": "A ring with the power to warp the fate of others, bringing woe or weal.",
+        "Note0": "Instantly kills summoned units.",
+        "spell_amp": "11"
+    },
+    {
+        "item_signet_of_destiny_2": "Signet of Shrouded Destiny",
+        "bonus_armor": "3",
+        "bonus_health": "1175",
+        "bonus_intellect": "90",
+        "bonus_mana": "+$mana",
+        "bonus_mana_regen": "2.05",
+        "bonus_other": "40",
+        "Description": "<h1>Active: Energy Burst</h1>Targets an allied or enemy unit. The target instantly restores health equal to 325 per charge and mana equal to 45 per charge if they're an ally or takes magical damage and loses mana equal to those if they're an enemy.<br><br>When used against enemies, it reduces health by 0.95% of current health per second, and reduces HP regeneration, healing, lifesteal and spell lifesteal by 45%, while dealing 80 damage per second. Allied units instead have their HP regeneration, healing, lifesteal and spell lifesteal increased by that amount while healing for the damage + 0.95% of their missing health per second.<br><br>Lasts 8.0 seconds.<br>Max 20 charges. Automatically gains a charge every 8 seconds, whenever a visible enemy within 1200 range uses an ability and gains 3 charges whenever any unit dies (6 for heroes).",
+        "heal_increase": "40",
+        "Lore": "A ring with the power to warp the fate of others, bringing woe or weal.",
+        "Note0": "Instantly kills summoned units.",
+        "spell_amp": "15"
+    },
+    {
+        "item_signet_of_destiny_3": "Signet of Infernal Destiny",
+        "bonus_armor": "4",
+        "bonus_health": "3200",
+        "bonus_intellect": "180",
+        "bonus_mana": "+$mana",
+        "bonus_mana_regen": "2.95",
+        "bonus_other": "130",
+        "Description": "<h1>Active: Energy Burst</h1>Targets an allied or enemy unit. The target instantly restores health equal to 450 per charge and mana equal to 55 per charge if they're an ally or takes magical damage and loses mana equal to those if they're an enemy.<br><br>When used against enemies, it reduces health by 1.15% of current health per second, and reduces HP regeneration, healing, lifesteal and spell lifesteal by 45%, while dealing 150 damage per second. Allied units instead have their HP regeneration, healing, lifesteal and spell lifesteal increased by that amount while healing for the damage + 1.15% of their missing health per second.<br><br>Lasts 8.0 seconds.<br>Max 20 charges. Automatically gains a charge every 8 seconds, whenever a visible enemy within 1200 range uses an ability and gains 3 charges whenever any unit dies (6 for heroes).",
+        "heal_increase": "50",
+        "Lore": "A ring with the power to warp the fate of others, bringing woe or weal.",
+        "Note0": "Instantly kills summoned units.",
+        "spell_amp": "21"
+    },
+    {
+        "item_signet_of_destiny_4": "Signet of Blessed Destiny",
+        "bonus_armor": "5",
+        "bonus_health": "9275",
+        "bonus_intellect": "450",
+        "bonus_mana": "+$mana",
+        "bonus_mana_regen": "5.65",
+        "bonus_other": "400",
+        "Description": "<h1>Active: Energy Burst</h1>Targets an allied or enemy unit. The target instantly restores health equal to 1200 per charge and mana equal to 65 per charge if they're an ally or takes magical damage and loses mana equal to those if they're an enemy.<br><br>When used against enemies, it reduces health by 1.35% of current health per second, and reduces HP regeneration, healing, lifesteal and spell lifesteal by 45%, while dealing 300 damage per second. Allied units instead have their HP regeneration, healing, lifesteal and spell lifesteal increased by that amount while healing for the damage + 1.35% of their missing health per second.<br><br>Lasts 8.0 seconds.<br>Max 20 charges. Automatically gains a charge every 8 seconds, whenever a visible enemy within 750 range uses an ability and gains 3 charges whenever any unit dies (6 for heroes).",
+        "heal_increase": "60",
+        "Lore": "A ring with the power to warp the fate of others, bringing woe or weal.",
+        "Note0": "Instantly kills summoned units.",
+        "spell_amp": "32"
+    },
+    {
+        "item_signet_of_destiny_5": "Signet of Eldritch Destiny",
+        "bonus_armor": "5",
+        "bonus_health": "31775",
+        "bonus_intellect": "1450",
+        "bonus_mana": "2385",
+        "bonus_mana_regen": "15.65",
+        "bonus_other": "1400",
+        "Description": "<h1>Active: Energy Burst</h1>Targets an allied or enemy unit. The target instantly restores health equal to 3250 per charge and mana equal to 85 per charge if they're an ally or takes magical damage and loses mana equal to those if they're an enemy.<br><br>When used against enemies, it reduces health by 1.55% of current health per second, and reduces HP regeneration, healing, lifesteal and spell lifesteal by 45%, while dealing 600 damage per second. Allied units instead have their HP regeneration, healing, lifesteal and spell lifesteal increased by that amount while healing for the damage + 1.55% of their missing health per second.<br><br>Lasts 8.0 seconds.<br>Max 20 charges. Automatically gains a charge every 8 seconds, whenever a visible enemy within 1200 range uses an ability and gains 3 charges whenever any unit dies (6 for heroes).",
+        "heal_increase": "70",
+        "Lore": "A ring with the power to warp the fate of others, bringing woe or weal.",
+        "Note0": "Instantly kills summoned units.",
+        "spell_amp": "65"
+    },
+    {
+        "item_skadi2": "Evil Eye",
+        "bonus_all_stats": "70",
+        "bonus_health": "880",
+        "bonus_mana": "440",
+        "Description": "<h1>Passive: Cold Attack</h1>Attacks apply a debuff that deals 1000 damage, lowers enemy movement and attack speed and reduces heals, health regeneration, lifesteal and spell lifesteal by 55% for 3.0 seconds. Slows enemy ranged units by -50% movement speed and by -70 attack speed. Slows enemy melee units by -25% movement speed and by -35 attack speed. ",
+        "Lore": "Extremely rare artifact, guarded by the azure dragons."
+    },
+    {
+        "item_skadi3": "Fiend's Eye",
+        "bonus_all_stats": "205",
+        "bonus_health": "3550",
+        "bonus_mana": "880",
+        "Description": "<h1>Passive: Cold Attack</h1>Attacks apply a debuff that deals 2500 damage, lowers enemy movement and attack speed and reduces heals, health regeneration, lifesteal and spell lifesteal by 70% for 3.0 seconds. Slows enemy ranged units by -60% movement speed and by -80 attack speed. Slows enemy melee units by -30% movement speed and by -40 attack speed. ",
+        "Lore": "Extremely rare artifact, guarded by the azure dragons."
+    },
+    {
+        "item_skadi4": "Divine Eye",
+        "bonus_all_stats": "650",
+        "bonus_health": "14500",
+        "bonus_mana": "1800",
+        "Description": "<h1>Passive: Cold Attack</h1>Attacks apply a debuff that deals 4500 damage, lowers enemy movement and attack speed and reduces heals, health regeneration, lifesteal and spell lifesteal by 85% for 3.0 seconds. Slows enemy ranged units by -70% movement speed and by -90 attack speed. Slows enemy melee units by -35% movement speed and by -45 attack speed. ",
+        "Lore": "Extremely rare artifact, guarded by the azure dragons."
+    },
+    {
+        "item_skadi5": "Eye of Bahamut",
+        "bonus_all_stats": "2000",
+        "bonus_health": "48000",
+        "bonus_mana": "5000",
+        "Description": "<h1>Passive: Cold Attack</h1>Attacks apply a debuff that deals 9500 damage, lowers enemy movement and attack speed and reduces heals, health regeneration, lifesteal and spell lifesteal by 85% for 3.0 seconds. Slows enemy ranged units by -80% movement speed and by -100 attack speed. Slows enemy melee units by -40% movement speed and by -50 attack speed. ",
+        "Lore": "Extremely rare artifact, guarded by the azure dragons."
+    },
+    {
+        "item_solar_crest2": "Eclipsed Crest",
+        "bonus_all_stats": "35",
+        "bonus_armor": "8",
+        "bonus_mana_regen_pct": "3.75",
+        "Description": "<h1>Active: Shine</h1>When cast on an ally, grants them 9 armor, 100 attack speed, 20% movement speed and a 1200 HP Barrier. <br><br>Does not grant bonus armor if used on self. <br><br>Range: %abilitycastrange%<br><br>Duration: 8",
+        "Lore": "A talisman forged to honor the daytime sky.",
+        "Note0": "Shares cooldown with Medallion of Courage.",
+        "self_movement_speed": "25"
+    },
+    {
+        "item_solar_crest3": "Damned Crest",
+        "bonus_all_stats": "125",
+        "bonus_armor": "10",
+        "bonus_mana_regen_pct": "6.5",
+        "Description": "<h1>Active: Shine</h1>When cast on an ally, grants them 11 armor, 150 attack speed, 25% movement speed and a 4800 HP Barrier. <br><br>Does not grant bonus armor if used on self. <br><br>Range: %abilitycastrange%<br><br>Duration: 8",
+        "Lore": "A talisman forged to honor the daytime sky.",
+        "Note0": "Shares cooldown with Medallion of Courage.",
+        "self_movement_speed": "30"
+    },
+    {
+        "item_solar_crest4": "Searing Crest",
+        "bonus_all_stats": "395",
+        "bonus_armor": "12",
+        "bonus_mana_regen_pct": "10",
+        "Description": "<h1>Active: Shine</h1>When cast on an ally, grants them 13 armor, 200 attack speed, 30% movement speed and a 15000 HP Barrier. <br><br>Does not grant bonus armor if used on self. <br><br>Range: %abilitycastrange%<br><br>Duration: 8",
+        "Lore": "A talisman forged to honor the daytime sky.",
+        "Note0": "Shares cooldown with Medallion of Courage.",
+        "self_movement_speed": "35"
+    },
+    {
+        "item_solar_crest5": "Hollow Crest",
+        "bonus_all_stats": "1500",
+        "bonus_armor": "15",
+        "bonus_mana_regen_pct": "20",
+        "Description": "<h1>Active: Shine</h1>When cast on an ally, grants them 17 armor, 250 attack speed, 40% movement speed and a 45000 HP Barrier. <br><br>Does not grant bonus armor if used on self. <br><br>Range: %abilitycastrange%<br><br>Duration: 8",
+        "Lore": "A talisman forged to honor the daytime sky.",
+        "Note0": "Shares cooldown with Medallion of Courage.",
+        "self_movement_speed": "50"
+    },
+    {
+        "item_spear_of_justice": "Spear of Justice",
+        "base_attack_range": "75",
+        "bonus_agility": "20",
+        "bonus_attack_speed": "40",
+        "bonus_damage": "60",
+        "bonus_health": "200",
+        "bonus_intellect": "15",
+        "bonus_mana_regen": "1.75",
+        "bonus_strength": "30",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make %max_attacks% attacks against the target with true-strike and with +100 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive: Echo Strike</h1> Causes attacks to attack twice in quick succession. The double attacks apply a 100% movement slow for 0.8 seconds on each strike.<br><br>Has a 6 second internal cooldown for melee attacks and 6 for ranged attacks.",
+        "Lore": "A deceptively swift blade imbued with resonant magic.",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_buff": "Echo Strike - Buff",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_buff_Description": "Increased attack speed.",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_cooldown": "Echo Strike - Cooldown",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_cooldown_Description": "Echo Strike will not proc again while you have this debuff.",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_debuff": "Echo Strike - Debuff",
+        "DOTA_Tooltip_modifier_item_spear_of_justice_debuff_Description": "Slowed."
+    },
+    {
+        "item_spear_of_justice_2": "Rhongomyniad",
+        "base_attack_range": "100",
+        "bonus_attack_speed": "50",
+        "bonus_damage": "250",
+        "bonus_health": "800",
+        "bonus_mana_regen": "2.5",
+        "bonus_strength": "60",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make %max_attacks% attacks against the target with true-strike and with +150 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive: Echo Strike</h1> Causes attacks to attack twice in quick succession. The double attacks apply a 100% movement slow for 0.8 seconds on each strike.<br><br>Has a 4.8 second internal cooldown for melee attacks and 5.5 for ranged attacks.",
+        "Lore": "A deceptively swift blade imbued with resonant magic."
+    },
+    {
+        "item_spear_of_justice_3": "Trishula",
+        "base_attack_range": "125",
+        "bonus_attack_speed": "60",
+        "bonus_damage": "780",
+        "bonus_health": "2600",
+        "bonus_mana_regen": "5",
+        "bonus_strength": "150",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make %max_attacks% attacks against the target with true-strike and with +200 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive: Echo Strike</h1> Causes attacks to attack twice in quick succession. The double attacks apply a 100% movement slow for 0.8 seconds on each strike.<br><br>Has a 3.6 second internal cooldown for melee attacks and 5.0 for ranged attacks.\n\n<h1>Passive: Splash</h1> Deals 50% (25% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "Lore": "A deceptively swift blade imbued with resonant magic."
+    },
+    {
+        "item_spear_of_justice_4": "Lance of Longinus",
+        "base_attack_range": "150",
+        "bonus_attack_speed": "70",
+        "bonus_damage": "2700",
+        "bonus_health": "8000",
+        "bonus_mana_regen": "7.5",
+        "bonus_strength": "420",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make %max_attacks% attacks against the target with true-strike and with +250 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive: Echo Strike</h1> Causes attacks to attack twice in quick succession. The double attacks apply a 100% movement slow for 0.8 seconds on each strike.<br><br>Has a 2.4 second internal cooldown for melee attacks and 4.5 for ranged attacks.\n\n<h1>Passive: Splash</h1> Deals 60% (30% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "Lore": "A deceptively swift blade imbued with resonant magic."
+    },
+    {
+        "item_spear_of_justice_5": "Amenonuhoko",
+        "base_attack_range": "175",
+        "bonus_attack_speed": "80",
+        "bonus_damage": "9000",
+        "bonus_health": "20000",
+        "bonus_mana_regen": "12",
+        "bonus_strength": "1450",
+        "Description": "<h1>Active: Hurricane Thrust</h1> Pushes you and target enemy 450 units away from each other, and for 6 seconds, allows you to make %max_attacks% attacks against the target with true-strike and with +300 attack speed.<br><br>Works like Force Staff when used on self or allies.<br><br>Allied Range: %abilitycastrange%<br>Enemy Range: 450\n<h1>Passive: Echo Strike</h1> Causes attacks to attack twice in quick succession. The double attacks apply a 100% movement slow for 0.8 seconds on each strike.<br><br>Has a 1.2 second internal cooldown for melee attacks and 4.0 for ranged attacks.\n\n<h1>Passive: Splash</h1> Deals 70% (35% for ranged heroes) of attack damage as physical damage in a cone up to 650 starting from the target.",
+        "Lore": "A deceptively swift blade imbued with resonant magic."
+    },
+    {
+        "item_booster_1": "Health Booster",
+        "bonus_all": "40",
+        "bonus_health": "1700",
+        "bonus_mana": "850",
+        "health_per_str": "2",
+        "Lore": "Grants you bonus health depending on your strength"
+    },
+    {
+        "item_booster_2": "Life Booster",
+        "bonus_all": "170",
+        "bonus_health": "6800",
+        "bonus_mana": "1700",
+        "health_per_str": "4",
+        "Lore": "Grants you bonus health depending on your strength"
+    },
+    {
+        "item_booster_3": "Blood Booster",
+        "bonus_all": "525",
+        "bonus_armor": "8",
+        "bonus_damage": "1300",
+        "bonus_health": "12500",
+        "Description": "<h1>Aura: Bounty of Blood</h1>Grants 11% lifesteal, 21% bonus damage, 25 mana regeneration, 500 health regeneration and 5 armor to nearby allies.<br><br>The damage dealt by your allies' attacks heals you for the lifesteal they receive divided by the number of allies benefiting from your aura.<br><br>Radius: 1200",
+        "health_per_str": "7",
+        "Lore": "Grants you bonus health depending on your strength"
+    },
+    {
+        "item_booster_4": "Paleblood Moon",
+        "bonus_all": "1400",
+        "bonus_armor": "9",
+        "bonus_damage": "2000",
+        "bonus_health": "48000",
+        "Description": "<h1>Aura: Gift of the Pale Blood</h1>Grants 11.5% lifesteal, 21% bonus damage, 50 mana regeneration, 2000 health regeneration and 6 armor to nearby allies.<br><br>The damage dealt by your allies' attacks heals you for the lifesteal they receive divided by the number of allies benefiting from your aura.<br><br>Radius: 1200",
+        "health_per_str": "11",
+        "Lore": "Something sinister lurks in it..."
+    },
+    {
+        "item_eagle_2": "Shadowsong",
+        "bonus_agility": "75",
+        "Lore": "Capturing the dark call of the abyss, this mystical horn brings limitless dexterity to those who hear it."
+    },
+    {
+        "item_eagle_3": "Demonsong",
+        "bonus_agility": "225",
+        "Lore": "Capturing the demonic call of hell, this mystical horn brings limitless dexterity to those who hear it."
+    },
+    {
+        "item_eagle_4": "Angelsong",
+        "bonus_agility": "675",
+        "Lore": "Capturing the majestic call of the heavens, this mystical horn brings limitless dexterity to those who hear it."
+    },
+    {
+        "item_eagle_5": "Elder's Song",
+        "bonus_agility": "2500",
+        "Lore": "Capturing the majestic call of the elders, this mystical horn brings limitless dexterity to those who hear it."
+    },
+    {
+        "item_scythe_2": "Scythe of Priests",
+        "bonus_damage": "600",
+        "Lore": "The scythe of a powerful archcleric"
+    },
+    {
+        "item_scythe_3": "Unholy Scythe",
+        "bonus_damage": "1800",
+        "Lore": "A scythe corrupted."
+    },
+    {
+        "item_scythe_4": "Death's Scythe",
+        "bonus_damage": "6000",
+        "Lore": "Death's own."
+    },
+    {
+        "item_mystic_staff_2": "Fell Staff",
+        "bonus_intellect": "75",
+        "Lore": "Enigmatic staff made of only the most expensive crystals."
+    },
+    {
+        "item_mystic_staff_3": "Hell Staff",
+        "bonus_intellect": "225",
+        "Lore": "Enigmatic staff made of only the most expensive crystals."
+    },
+    {
+        "item_mystic_staff_4": "Heavenly Staff",
+        "bonus_intellect": "675",
+        "Lore": "Enigmatic staff made of only the most expensive crystals."
+    },
+    {
+        "item_mystic_staff_5": "Elder Staff",
+        "bonus_intellect": "2500",
+        "Lore": "Enigmatic staff made of only the most expensive crystals."
+    },
+    {
+        "item_orb_1": "Orb of Shadows",
+        "bonus_all": "30",
+        "Lore": "Before it fell into the hands of a wizard, this orb belonged to Foulfell's watcher."
+    },
+    {
+        "item_orb_2": "Demonic Orb",
+        "bonus_all_stats_tooltip": "90",
+        "Lore": "The dark essence of the Seven Hells, condensed."
+    },
+    {
+        "item_orb_3": "Divine Orb",
+        "bonus_all_stats_tooltip": "270",
+        "Lore": "The concentrated remains of a Fundamental"
+    },
+    {
+        "item_orb_4": "Bahamut's Power Shard",
+        "bonus_all_stats_tooltip": "1000",
+        "Lore": "Dreadful power condensed from an Old One."
+    },
+    {
+        "item_orb_5": "Asura's Shard",
+        "bonus_all_stats_tooltip": "2500",
+        "Description": "Unpurchasable, you get one Asura's Shard when you enter round 2, 10, 20 and 30.",
+        "Lore": "The burning soul shard of a powerful demon."
+    },
+    {
+        "item_reaver_2": "Dark Reaver",
+        "bonus_strength": "75",
+        "Lore": "A massive axe capable of tearing whole mountains down."
+    },
+    {
+        "item_reaver_3": "Fiendish Reaver",
+        "bonus_strength": "225",
+        "Lore": "A massive axe capable of tearing whole mountains down."
+    },
+    {
+        "item_reaver_4": "Celestial Reaver",
+        "bonus_strength": "675",
+        "Lore": "A massive axe said capable of tearing down heaven."
+    },
+    {
+        "item_reaver_5": "Elder Reaver",
+        "bonus_strength": "2500",
+        "Lore": "A massive axe capable of tearing whole mountains down."
+    },
+    {
+        "item_void_reach": "Void's Reach",
+        "base_attack_range": "150",
+        "bonus_all": "20",
+        "bonus_mana": "300",
+        "bonus_mana_regen": "4.5",
+        "cast_range_bonus": "225",
+        "Description": "<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges.",
+        "Lore": "A wand made from the foam of the void."
+    },
+    {
+        "item_void_reach_2": "Shadow's Reach",
+        "base_attack_range": "200",
+        "bonus_all": "50",
+        "bonus_mana": "360",
+        "bonus_mana_regen": "4.8",
+        "cast_range_bonus": "275",
+        "Description": "<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges.",
+        "Lore": "A wand made from the foam of the void."
+    },
+    {
+        "item_void_reach_3": "Hell's Reach",
+        "base_attack_range": "250",
+        "bonus_all": "140",
+        "bonus_mana": "480",
+        "bonus_mana_regen": "5.4",
+        "cast_range_bonus": "325",
+        "Description": "<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges.",
+        "Lore": "A wand made from the foam of the void."
+    },
+    {
+        "item_void_reach_4": "Heaven's Reach",
+        "base_attack_range": "300",
+        "bonus_all": "510",
+        "bonus_mana": "840",
+        "bonus_mana_regen": "7.2",
+        "cast_range_bonus": "400",
+        "Description": "<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges.",
+        "Lore": "A wand made from the foam of the void."
+    },
+    {
+        "item_void_reach_5": "Abyss's Reach",
+        "base_attack_range": "350",
+        "bonus_all": "1510",
+        "bonus_mana": "2300",
+        "bonus_mana_regen": "14.5",
+        "cast_range_bonus": "475",
+        "Description": "<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges.",
+        "Lore": "A wand made from the foam of the void."
+    },
+    {
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_archon": "Archon - Cooldown",
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_archon_as": "Archon - Attack Speed",
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_archon_as_Description": "Attack speed increased.",
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_archon_Description": "Cooldown and cast times reduced.",
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_wild_magic": "Wild Magic",
+        "DOTA_Tooltip_modifier_item_yasha_and_kaya_2_wild_magic_Description": "Attack speed and movement speed increased, lifesteal restores mana.",
+        "item_yasha_and_kaya_2": "Weaveblades",
+        "bonus_agility": "41",
+        "bonus_attack_speed": "24",
+        "bonus_cooldown": "10",
+        "bonus_intellect": "41",
+        "Description": "<h1>Passive: Spellsword</h1>When you land attacks on units, you gain 0.75 cast speed, which lasts until one of your abilities goes on cooldown, up to a maximum of 15 stacks. Stacks start disappearing after not landing an attack for 1.5 seconds and all stacks are lost after 3 seconds.<br><br>Casting a spell increases your attack speed by 100 for 3.5 seconds.",
+        "hp_regen_amp": "%+Spell Lifesteal Amp",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "14",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "spell_amp": "25"
+    },
+    {
+        "item_yasha_and_kaya_3": "Blades of Strife",
+        "bonus_agility": "120",
+        "bonus_attack_speed": "58",
+        "bonus_cooldown": "12",
+        "bonus_damage": "400",
+        "bonus_intellect": "120",
+        "Description": "<h1>Active: Wild Magic</h1>Gives 110 attack speed and 30 movement speed, but reduces your armor by 8. Attacks made during Wild Magic restore mana equal to 5% of the lifesteal.<br><br>Lasts 6.0 seconds.\n\n<h1>Passive: Spellsword</h1>When you land attacks on units, you gain 1.0 cast speed, which lasts until one of your abilities goes on cooldown, up to a maximum of 20 stacks. Stacks start disappearing after not landing an attack for 1.5 seconds and all stacks are lost after 3 seconds.<br><br>Casting a spell increases your attack speed by 150 for 3.5 seconds.",
+        "hp_regen_amp": "%+Spell Lifesteal Amp",
+        "lifesteal_percent": "10",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "16",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "spell_amp": "36"
+    },
+    {
+        "item_yasha_and_kaya_4": "Planeslicers",
+        "bonus_agility": "555",
+        "bonus_attack_speed": "106",
+        "bonus_cooldown": "14",
+        "bonus_damage": "1720",
+        "bonus_intellect": "555",
+        "bonus_mana": "540",
+        "bonus_mana_regen": "6.5",
+        "Description": "<h1>Active: Wild Magic</h1>Gives 110 attack speed and 30 movement speed, but reduces your armor by 8. Attacks made during Wild Magic restore mana equal to 5% of the lifesteal.<br><br>Lasts 6.0 seconds.\n\n<h1>Passive: Spellsword</h1>When you land attacks on units, you gain 1.25 cast speed, which lasts until one of your abilities goes on cooldown, up to a maximum of 25 stacks. Stacks start disappearing after not landing an attack for 1.5 seconds and all stacks are lost after 3 seconds.<br><br>Casting a spell increases your attack speed by 200 for 3.5 seconds.\n\n<h1>Passive:  Voids's Reach</h1> Increases attack range of ranged heroes by 250, melee heroes recieve 50% of the attack range. Also increases targeted spell and item cast ranges by 325.",
+        "hp_regen_amp": "%+Spell Lifesteal Amp",
+        "lifesteal_percent": "11",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "18",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "spell_amp": "54"
+    },
+    {
+        "item_yasha_and_kaya_5": "Edge of Annihilation",
+        "bonus_agility": "1230",
+        "bonus_attack_speed": "260",
+        "bonus_cooldown": "16",
+        "bonus_damage": "3720",
+        "bonus_intellect": "1230",
+        "bonus_mana": "4825",
+        "bonus_mana_regen": "20.25",
+        "Description": "<h1>Active: Wild Static</h1>You go into a state of Wild Magic for 6.0 seconds, giving you 110 attack speed, 30 movement speed, causing your Void's Lightning to strike up to 4 units within 600 of your attack target and increasing the damage of your Void's Lightning to 15000, while reducing your armor by 8. Lastly, your lifesteal restores mana equal to 5%.\n\n<h1>Passive: Thunder's Spellsword</h1>Your attacks give stacks of <b>Archon</b> and have a 45% chance to pierce evasion and release a bolt of electricity that leaps between 12 targets within a 650 radius, dealing 12000 magical damage to each.<br><br>You gain 1.5 cast speed, which lasts until one of your abilities goes on cooldown, up to a maximum of 30 stacks. Stacks start disappearing after not landing an attack for 1.5 seconds and all stacks are lost after 3 seconds.<br><br>Casting a spell increases your attack speed by 200 for 3.5 seconds.<br><br>Lastly, your attack range is increased by 250 (50% for melee heroes) and your cast ranges are increased by 325.",
+        "hp_regen_amp": "%+Spell Lifesteal Amp",
+        "lifesteal_percent": "22",
+        "Lore": "Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination.",
+        "movement_speed_percent_bonus": "20",
+        "Note0": "Yasha-based movement speed bonuses from multiple items do not stack.",
+        "spell_amp": "90"
+    }
+]
